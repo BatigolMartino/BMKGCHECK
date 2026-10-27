@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Tentang PeatGuard Cuaca — sumber data, metode indikator risiko karhutla, dan hubungan dengan proyek PeatGuard sensor gambut.">
+  <meta name="theme-color" content="#1F4D3A">
+  <title>Tentang — PeatGuard Cuaca</title>
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    /* Gaya tambahan khusus halaman Tentang */
+    .tentang-konten { display: flex; flex-direction: column; gap: 1rem; }
+    .tentang-konten h2 { font-size: 1.1rem; color: var(--hijau); margin-bottom: .5rem; }
+    .tentang-konten p  { font-size: .9rem; line-height: 1.65; }
+    .tentang-konten ul { padding-left: 1.25rem; font-size: .9rem; line-height: 1.65; }
+    .tentang-konten li { margin-bottom: .3rem; }
+    table { width: 100%; border-collapse: collapse; font-size: .85rem; margin-top: .5rem; }
+    th, td { border: 1px solid var(--border); padding: .5rem .75rem; text-align: left; }
+    th { background: var(--hijau); color: #fff; }
+    tr:nth-child(even) td { background: var(--abu-muda); }
+    .badge {
+      display: inline-block; padding: .15rem .5rem;
+      border-radius: 999px; font-size: .75rem; font-weight: 700;
+    }
+    .badge-rendah { background: var(--rendah-bg); color: var(--rendah-teks); }
+    .badge-sedang { background: var(--sedang-bg); color: var(--sedang-teks); }
+    .badge-tinggi { background: var(--tinggi-bg); color: var(--tinggi-teks); }
+  </style>
+</head>
+<body>
+
+  <a class="skip-link" href="#main-content">Lewati ke konten utama</a>
+
+  <header class="site-header" role="banner">
+    <div class="inner">
+      <div class="logo-ikon" aria-hidden="true">🌿</div>
+      <div>
+        <h1>PeatGuard Cuaca</h1>
+        <div class="tagline">Prakiraan cuaca karhutla Kalimantan</div>
+      </div>
+      <nav aria-label="Navigasi utama">
+        <a href="index.html">Beranda</a>
+        <a href="tentang.html" aria-current="page">Tentang</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main-content">
+    <div class="tentang-konten" style="max-width:640px; margin:0 auto; padding:1rem;">
+
+      <!-- Deskripsi -->
+      <section class="kartu">
+        <h2>🌿 Tentang PeatGuard Cuaca</h2>
+        <p>
+          <strong>PeatGuard Cuaca</strong> adalah lapisan informasi publik dari proyek
+          <strong>PeatGuard</strong> — sistem sensor muka air gambut untuk mendukung
+          pencegahan kebakaran hutan dan lahan (karhutla) di Kalimantan.
+        </p>
+        <p style="margin-top:.5rem">
+          Website ini menyampaikan data cuaca resmi BMKG kepada relawan desa (MPA),
+          perangkat desa, dan warga dengan bahasa yang mudah dipahami — sehingga siapa pun
+          bisa memutuskan tindakan pencegahan yang tepat.
+        </p>
+      </section>
+
+      <!-- Sumber Data -->
+      <section class="kartu" aria-labelledby="judul-sumber">
+        <h2 id="judul-sumber">📡 Sumber Data</h2>
+        <p class="atribusi" style="font-weight:700; color:var(--hijau); margin-bottom:.5rem">
+          Sumber data: BMKG (Badan Meteorologi, Klimatologi, dan Geofisika)
+        </p>
+        <table>
+          <thead>
+            <tr><th>Data</th><th>Sumber</th><th>Pembaruan</th></tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Prakiraan cuaca per desa</td>
+              <td><a href="https://api.bmkg.go.id/publik/prakiraan-cuaca" target="_blank" rel="noopener noreferrer">API BMKG</a></td>
+              <td>2× sehari</td>
+            </tr>
+            <tr>
+              <td>Peringatan dini (nowcast)</td>
+              <td><a href="https://cuaca.bmkg.go.id" target="_blank" rel="noopener noreferrer">cuaca.bmkg.go.id</a></td>
+              <td>Setiap beberapa menit</td>
+            </tr>
+            <tr>
+              <td>Kode wilayah desa</td>
+              <td><a href="https://github.com/cahyadsn/wilayah" target="_blank" rel="noopener noreferrer">cahyadsn/wilayah</a> (MIT)</td>
+              <td>Statis (Kepmendagri 2022)</td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+
+      <!-- Metode Indikator -->
+      <section class="kartu" aria-labelledby="judul-metode">
+        <h2 id="judul-metode">📊 Metode Indikator Risiko Karhutla</h2>
+        <p>
+          Indikator dihitung dari seluruh titik prakiraan 72 jam (sekitar 20 titik per 3 jam)
+          menggunakan sistem poin sederhana:
+        </p>
+        <table style="margin-top:.75rem">
+          <thead>
+            <tr><th>Parameter</th><th>Nilai</th><th>Poin</th></tr>
+          </thead>
+          <tbody>
+            <tr><td rowspan="3">Total hujan 72 jam</td><td>&lt; 1 mm</td><td>2</td></tr>
+            <tr><td>1 – 10 mm</td><td>1</td></tr>
+            <tr><td>&gt; 10 mm</td><td>0</td></tr>
+            <tr><td rowspan="3">Kelembapan minimum</td><td>&lt; 60%</td><td>2</td></tr>
+            <tr><td>60 – 75%</td><td>1</td></tr>
+            <tr><td>&gt; 75%</td><td>0</td></tr>
+            <tr><td rowspan="3">Suhu maksimum</td><td>≥ 34°C</td><td>2</td></tr>
+            <tr><td>32 – 33,9°C</td><td>1</td></tr>
+            <tr><td>&lt; 32°C</td><td>0</td></tr>
+            <tr><td rowspan="2">Angin maksimum</td><td>≥ 20 km/jam</td><td>1</td></tr>
+            <tr><td>&lt; 20 km/jam</td><td>0</td></tr>
+          </tbody>
+        </table>
+
+        <p style="margin-top:.75rem"><strong>Total skor → Level risiko:</strong></p>
+        <ul style="list-style:none; padding:0; display:flex; flex-direction:column; gap:.35rem; margin-top:.35rem">
+          <li><span class="badge badge-rendah">🟢 RENDAH</span> — Skor 0–2</li>
+          <li><span class="badge badge-sedang">🟡 SEDANG</span> — Skor 3–4</li>
+          <li><span class="badge badge-tinggi">🔴 TINGGI</span> — Skor 5–7</li>
+        </ul>
+      </section>
+
+      <!-- Keterbatasan -->
+      <section class="kartu" aria-labelledby="judul-batasan">
+        <h2 id="judul-batasan">⚠️ Keterbatasan</h2>
+        <ul>
+          <li>Indikator risiko ini adalah alat bantu sederhana — <strong>bukan produk resmi BMKG</strong>.</li>
+          <li>Prakiraan cuaca diperbarui 2× sehari; kondisi aktual bisa berubah lebih cepat.</li>
+          <li>Faktor lokal (jenis vegetasi, kondisi kanal gambut) tidak diperhitungkan.</li>
+          <li>Untuk keputusan resmi, selalu rujuk BMKG, BPBD, dan otoritas terkait.</li>
+          <li>Cakupan saat ini: 5 provinsi Kalimantan, 7.179 desa/kelurahan.</li>
+        </ul>
+      </section>
+
+      <!-- Hubungan PeatGuard -->
+      <section class="kartu" aria-labelledby="judul-peatguard">
+        <h2 id="judul-peatguard">🔗 Hubungan dengan PeatGuard</h2>
+        <p>
+          <strong>PeatGuard</strong> adalah sistem sensor muka air gambut yang dipasang
+          di kanal-kanal gambut oleh relawan desa (MPA). Data sensor ini membantu
+          memantau kondisi gambut secara real-time.
+        </p>
+        <p style="margin-top:.5rem">
+          <strong>PeatGuard Cuaca</strong> melengkapi sensor tersebut dengan informasi
+          cuaca — karena cuaca kering adalah pemicu utama karhutla gambut.
+          Bersama, keduanya memberi peringatan dini yang lebih lengkap kepada komunitas desa.
+        </p>
+      </section>
+
+      <!-- Tautan Resmi -->
+      <section class="kartu" aria-labelledby="judul-tautan">
+        <h2 id="judul-tautan">🔗 Tautan Resmi</h2>
+        <ul>
+          <li><a href="https://www.bmkg.go.id" target="_blank" rel="noopener noreferrer">BMKG — Badan Meteorologi, Klimatologi, dan Geofisika</a></li>
+          <li><a href="https://cuaca.bmkg.go.id" target="_blank" rel="noopener noreferrer">Peringatan Dini Cuaca BMKG</a></li>
+          <li><a href="https://sipongi.menlhk.go.id" target="_blank" rel="noopener noreferrer">SiPongi — Sistem Pemantauan Karhutla KLHK</a></li>
+          <li><a href="https://bnpb.go.id" target="_blank" rel="noopener noreferrer">BNPB — Badan Nasional Penanggulangan Bencana</a></li>
+        </ul>
+      </section>
+
+      <p class="info-diperbarui" style="text-align:center; padding-bottom:1rem">
+        PeatGuard Cuaca — Menjaga gambut, mencegah kabut. 🌿
+      </p>
+
+    </div>
+  </main>
+
+  <footer class="site-footer" role="contentinfo">
+    <div class="inner">
+      <p class="atribusi">Sumber data: BMKG (Badan Meteorologi, Klimatologi, dan Geofisika)</p>
+      <p class="disclaimer">
+        Situs ini bukan layanan resmi BMKG. Indikator risiko karhutla adalah hasil olahan sederhana
+        tim PeatGuard dan bukan produk resmi BMKG.
+      </p>
+      <nav class="tautan-footer" aria-label="Tautan sumber resmi">
+        <a href="https://www.bmkg.go.id" target="_blank" rel="noopener noreferrer">BMKG.go.id</a>
+        <a href="https://cuaca.bmkg.go.id" target="_blank" rel="noopener noreferrer">Cuaca BMKG</a>
+        <a href="index.html">Beranda</a>
+      </nav>
+    </div>
+  </footer>
+
+</body>
+</html>

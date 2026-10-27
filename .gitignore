@@ -1,0 +1,4 @@
+node_modules/
+.vercel/
+*.sql
+fixtures/wilayah-raw.sql

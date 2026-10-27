@@ -1,0 +1,2110 @@
+{
+  "kode": "65",
+  "nama": "Kalimantan Utara",
+  "kabupaten": [
+    {
+      "kode": "65.01",
+      "nama": "Kabupaten Bulungan",
+      "kecamatan": [
+        {
+          "kode": "65.01.01",
+          "nama": "Tanjung Palas",
+          "desa": [
+            {
+              "adm4": "65.01.01.1001",
+              "nama": "Tanjung Palas Hulu"
+            },
+            {
+              "adm4": "65.01.01.1002",
+              "nama": "Tanjung Palas Tengah"
+            },
+            {
+              "adm4": "65.01.01.1003",
+              "nama": "Tanjung Palas Hilir"
+            },
+            {
+              "adm4": "65.01.01.1004",
+              "nama": "Karang Anyar"
+            },
+            {
+              "adm4": "65.01.01.2005",
+              "nama": "Gunung Putih"
+            },
+            {
+              "adm4": "65.01.01.2006",
+              "nama": "Pejalin"
+            },
+            {
+              "adm4": "65.01.01.2007",
+              "nama": "Antutan"
+            },
+            {
+              "adm4": "65.01.01.2008",
+              "nama": "Teras Baru"
+            },
+            {
+              "adm4": "65.01.01.2009",
+              "nama": "Teras Nawang"
+            }
+          ]
+        },
+        {
+          "kode": "65.01.02",
+          "nama": "Tanjung Palas Barat",
+          "desa": [
+            {
+              "adm4": "65.01.02.2001",
+              "nama": "Long Beluah"
+            },
+            {
+              "adm4": "65.01.02.2002",
+              "nama": "Long Sam"
+            },
+            {
+              "adm4": "65.01.02.2003",
+              "nama": "Mara I"
+            },
+            {
+              "adm4": "65.01.02.2004",
+              "nama": "Mara Hilir"
+            },
+            {
+              "adm4": "65.01.02.2005",
+              "nama": "Long Pari"
+            }
+          ]
+        },
+        {
+          "kode": "65.01.03",
+          "nama": "Tanjung Palas Utara",
+          "desa": [
+            {
+              "adm4": "65.01.03.2001",
+              "nama": "Karang Agung"
+            },
+            {
+              "adm4": "65.01.03.2002",
+              "nama": "Pimping"
+            },
+            {
+              "adm4": "65.01.03.2003",
+              "nama": "Panca Agung"
+            },
+            {
+              "adm4": "65.01.03.2004",
+              "nama": "Ruhui Rahayu"
+            },
+            {
+              "adm4": "65.01.03.2005",
+              "nama": "Ardi Mulyo"
+            },
+            {
+              "adm4": "65.01.03.2006",
+              "nama": "Kelubir"
+            }
+          ]
+        },
+        {
+          "kode": "65.01.04",
+          "nama": "Tanjung Palas Timur",
+          "desa": [
+            {
+              "adm4": "65.01.04.2001",
+              "nama": "Tanah Kuning"
+            },
+            {
+              "adm4": "65.01.04.2002",
+              "nama": "Mangkupadi"
+            },
+            {
+              "adm4": "65.01.04.2003",
+              "nama": "Sajau"
+            },
+            {
+              "adm4": "65.01.04.2004",
+              "nama": "Wonomulyo"
+            },
+            {
+              "adm4": "65.01.04.2005",
+              "nama": "Tanjung Agung"
+            },
+            {
+              "adm4": "65.01.04.2006",
+              "nama": "Binai"
+            },
+            {
+              "adm4": "65.01.04.2007",
+              "nama": "Sajau Hilir"
+            },
+            {
+              "adm4": "65.01.04.2008",
+              "nama": "Pura Sajau"
+            }
+          ]
+        },
+        {
+          "kode": "65.01.05",
+          "nama": "Tanjung Selor",
+          "desa": [
+            {
+              "adm4": "65.01.05.1001",
+              "nama": "Tanjung Selor Hulu"
+            },
+            {
+              "adm4": "65.01.05.1002",
+              "nama": "Tanjung Selor Hilir"
+            },
+            {
+              "adm4": "65.01.05.1008",
+              "nama": "Tanjung Selor Timur"
+            },
+            {
+              "adm4": "65.01.05.2003",
+              "nama": "Jelarai Selor"
+            },
+            {
+              "adm4": "65.01.05.2004",
+              "nama": "Gunung Seriang"
+            },
+            {
+              "adm4": "65.01.05.2005",
+              "nama": "Bumi Rahayu"
+            },
+            {
+              "adm4": "65.01.05.2006",
+              "nama": "Gunung Sari"
+            },
+            {
+              "adm4": "65.01.05.2007",
+              "nama": "Apung"
+            },
+            {
+              "adm4": "65.01.05.2009",
+              "nama": "Tengkapak"
+            }
+          ]
+        },
+        {
+          "kode": "65.01.06",
+          "nama": "Tanjung Palas Tengah",
+          "desa": [
+            {
+              "adm4": "65.01.06.2001",
+              "nama": "Salimbatu"
+            },
+            {
+              "adm4": "65.01.06.2002",
+              "nama": "Silva Rahayu"
+            },
+            {
+              "adm4": "65.01.06.2003",
+              "nama": "Tanjung Buka"
+            }
+          ]
+        },
+        {
+          "kode": "65.01.07",
+          "nama": "Peso",
+          "desa": [
+            {
+              "adm4": "65.01.07.2001",
+              "nama": "Lepak Aru"
+            },
+            {
+              "adm4": "65.01.07.2002",
+              "nama": "Long Lasan"
+            },
+            {
+              "adm4": "65.01.07.2003",
+              "nama": "Long Peso"
+            },
+            {
+              "adm4": "65.01.07.2004",
+              "nama": "Long Bia"
+            },
+            {
+              "adm4": "65.01.07.2005",
+              "nama": "Muara Pangean"
+            },
+            {
+              "adm4": "65.01.07.2006",
+              "nama": "Long Lian"
+            },
+            {
+              "adm4": "65.01.07.2007",
+              "nama": "Long Pelaah"
+            },
+            {
+              "adm4": "65.01.07.2008",
+              "nama": "Long Lejuh"
+            },
+            {
+              "adm4": "65.01.07.2009",
+              "nama": "Long Pelban"
+            },
+            {
+              "adm4": "65.01.07.2010",
+              "nama": "Long Buang"
+            }
+          ]
+        },
+        {
+          "kode": "65.01.08",
+          "nama": "Peso Hilir",
+          "desa": [
+            {
+              "adm4": "65.01.08.2001",
+              "nama": "Long Tungu"
+            },
+            {
+              "adm4": "65.01.08.2002",
+              "nama": "Long Bang"
+            },
+            {
+              "adm4": "65.01.08.2003",
+              "nama": "Long Telenjau"
+            },
+            {
+              "adm4": "65.01.08.2004",
+              "nama": "Naha Aya"
+            },
+            {
+              "adm4": "65.01.08.2005",
+              "nama": "Long Lembu"
+            },
+            {
+              "adm4": "65.01.08.2006",
+              "nama": "Long Bang Hulu"
+            }
+          ]
+        },
+        {
+          "kode": "65.01.09",
+          "nama": "Sekatak",
+          "desa": [
+            {
+              "adm4": "65.01.09.2001",
+              "nama": "Sekatak Buji"
+            },
+            {
+              "adm4": "65.01.09.2002",
+              "nama": "Paru Abang"
+            },
+            {
+              "adm4": "65.01.09.2003",
+              "nama": "Bunau"
+            },
+            {
+              "adm4": "65.01.09.2004",
+              "nama": "Ujang"
+            },
+            {
+              "adm4": "65.01.09.2005",
+              "nama": "Tenggiling"
+            },
+            {
+              "adm4": "65.01.09.2006",
+              "nama": "Kelembunan"
+            },
+            {
+              "adm4": "65.01.09.2007",
+              "nama": "Turung"
+            },
+            {
+              "adm4": "65.01.09.2008",
+              "nama": "Terindak"
+            },
+            {
+              "adm4": "65.01.09.2009",
+              "nama": "Kelising"
+            },
+            {
+              "adm4": "65.01.09.2010",
+              "nama": "Ambalat"
+            },
+            {
+              "adm4": "65.01.09.2011",
+              "nama": "Keriting"
+            },
+            {
+              "adm4": "65.01.09.2012",
+              "nama": "Kendari"
+            },
+            {
+              "adm4": "65.01.09.2013",
+              "nama": "Bambang"
+            },
+            {
+              "adm4": "65.01.09.2014",
+              "nama": "Maritam"
+            },
+            {
+              "adm4": "65.01.09.2015",
+              "nama": "Pentian"
+            },
+            {
+              "adm4": "65.01.09.2016",
+              "nama": "Punan Dulau"
+            },
+            {
+              "adm4": "65.01.09.2017",
+              "nama": "Kelincauan"
+            },
+            {
+              "adm4": "65.01.09.2018",
+              "nama": "Bekiliu"
+            },
+            {
+              "adm4": "65.01.09.2019",
+              "nama": "Sekatak Bengara"
+            },
+            {
+              "adm4": "65.01.09.2020",
+              "nama": "Pungit"
+            },
+            {
+              "adm4": "65.01.09.2021",
+              "nama": "Anjar Arip"
+            },
+            {
+              "adm4": "65.01.09.2022",
+              "nama": "Liagu"
+            }
+          ]
+        },
+        {
+          "kode": "65.01.10",
+          "nama": "Bunyu",
+          "desa": [
+            {
+              "adm4": "65.01.10.2001",
+              "nama": "Bunyu Barat"
+            },
+            {
+              "adm4": "65.01.10.2002",
+              "nama": "Bunyu Selatan"
+            },
+            {
+              "adm4": "65.01.10.2003",
+              "nama": "Bunyu Timur"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kode": "65.02",
+      "nama": "Kabupaten Malinau",
+      "kecamatan": [
+        {
+          "kode": "65.02.01",
+          "nama": "Mentarang",
+          "desa": [
+            {
+              "adm4": "65.02.01.2002",
+              "nama": "Long Bisai"
+            },
+            {
+              "adm4": "65.02.01.2005",
+              "nama": "Pulau Sapi"
+            },
+            {
+              "adm4": "65.02.01.2006",
+              "nama": "Paking"
+            },
+            {
+              "adm4": "65.02.01.2007",
+              "nama": "Lidung Kemenci"
+            },
+            {
+              "adm4": "65.02.01.2008",
+              "nama": "Mentarang Baru"
+            },
+            {
+              "adm4": "65.02.01.2009",
+              "nama": "Harapan Maju"
+            }
+          ]
+        },
+        {
+          "kode": "65.02.02",
+          "nama": "Malinau Kota",
+          "desa": [
+            {
+              "adm4": "65.02.02.2001",
+              "nama": "Batu Lidung"
+            },
+            {
+              "adm4": "65.02.02.2002",
+              "nama": "Malinau Kota"
+            },
+            {
+              "adm4": "65.02.02.2003",
+              "nama": "Pelita Kanaan"
+            },
+            {
+              "adm4": "65.02.02.2004",
+              "nama": "Malinau Hulu"
+            },
+            {
+              "adm4": "65.02.02.2005",
+              "nama": "Malinau Hilir"
+            },
+            {
+              "adm4": "65.02.02.2006",
+              "nama": "Tanjung Keranjang"
+            }
+          ]
+        },
+        {
+          "kode": "65.02.03",
+          "nama": "Pujungan",
+          "desa": [
+            {
+              "adm4": "65.02.03.2001",
+              "nama": "Long Pujungan"
+            },
+            {
+              "adm4": "65.02.03.2002",
+              "nama": "Long Ketaman"
+            },
+            {
+              "adm4": "65.02.03.2003",
+              "nama": "Long Pua"
+            },
+            {
+              "adm4": "65.02.03.2004",
+              "nama": "Long Lame"
+            },
+            {
+              "adm4": "65.02.03.2005",
+              "nama": "Long Jelet"
+            },
+            {
+              "adm4": "65.02.03.2006",
+              "nama": "Long Aran"
+            },
+            {
+              "adm4": "65.02.03.2007",
+              "nama": "Long Peliran"
+            },
+            {
+              "adm4": "65.02.03.2008",
+              "nama": "Long Bena"
+            },
+            {
+              "adm4": "65.02.03.2009",
+              "nama": "Long Belaka Pitau"
+            }
+          ]
+        },
+        {
+          "kode": "65.02.04",
+          "nama": "Kayan Hilir",
+          "desa": [
+            {
+              "adm4": "65.02.04.2001",
+              "nama": "Data Dian"
+            },
+            {
+              "adm4": "65.02.04.2002",
+              "nama": "Long Pipa"
+            },
+            {
+              "adm4": "65.02.04.2003",
+              "nama": "Long Sule"
+            },
+            {
+              "adm4": "65.02.04.2004",
+              "nama": "Sungai Anai"
+            },
+            {
+              "adm4": "65.02.04.2005",
+              "nama": "Long Metun"
+            }
+          ]
+        },
+        {
+          "kode": "65.02.05",
+          "nama": "Kayan Hulu",
+          "desa": [
+            {
+              "adm4": "65.02.05.2001",
+              "nama": "Long Nawang"
+            },
+            {
+              "adm4": "65.02.05.2002",
+              "nama": "Nawang Baru"
+            },
+            {
+              "adm4": "65.02.05.2003",
+              "nama": "Long Temuyat"
+            },
+            {
+              "adm4": "65.02.05.2004",
+              "nama": "Long Betaoh"
+            },
+            {
+              "adm4": "65.02.05.2005",
+              "nama": "Long Payau"
+            }
+          ]
+        },
+        {
+          "kode": "65.02.06",
+          "nama": "Malinau Selatan",
+          "desa": [
+            {
+              "adm4": "65.02.06.2001",
+              "nama": "Bila Bekayuk"
+            },
+            {
+              "adm4": "65.02.06.2002",
+              "nama": "Long Loreh"
+            },
+            {
+              "adm4": "65.02.06.2003",
+              "nama": "Langap"
+            },
+            {
+              "adm4": "65.02.06.2004",
+              "nama": "Laban Nyarit"
+            },
+            {
+              "adm4": "65.02.06.2005",
+              "nama": "Nunuk Tanah Kibang"
+            },
+            {
+              "adm4": "65.02.06.2006",
+              "nama": "Pelencau"
+            },
+            {
+              "adm4": "65.02.06.2007",
+              "nama": "Paya Seturan"
+            },
+            {
+              "adm4": "65.02.06.2008",
+              "nama": "Punan Rian"
+            },
+            {
+              "adm4": "65.02.06.2009",
+              "nama": "Sengayan"
+            }
+          ]
+        },
+        {
+          "kode": "65.02.07",
+          "nama": "Malinau Utara",
+          "desa": [
+            {
+              "adm4": "65.02.07.2001",
+              "nama": "Kaliamok"
+            },
+            {
+              "adm4": "65.02.07.2002",
+              "nama": "Luso"
+            },
+            {
+              "adm4": "65.02.07.2003",
+              "nama": "Malinau Seberang"
+            },
+            {
+              "adm4": "65.02.07.2004",
+              "nama": "Putat"
+            },
+            {
+              "adm4": "65.02.07.2005",
+              "nama": "Salap"
+            },
+            {
+              "adm4": "65.02.07.2006",
+              "nama": "Seruyung"
+            },
+            {
+              "adm4": "65.02.07.2007",
+              "nama": "Respen Tubu"
+            },
+            {
+              "adm4": "65.02.07.2008",
+              "nama": "Belayan"
+            },
+            {
+              "adm4": "65.02.07.2009",
+              "nama": "Sembuak Warod"
+            },
+            {
+              "adm4": "65.02.07.2010",
+              "nama": "Lubak Manis"
+            },
+            {
+              "adm4": "65.02.07.2011",
+              "nama": "Kelapis"
+            },
+            {
+              "adm4": "65.02.07.2012",
+              "nama": "Semengaris"
+            }
+          ]
+        },
+        {
+          "kode": "65.02.08",
+          "nama": "Malinau Barat",
+          "desa": [
+            {
+              "adm4": "65.02.08.2001",
+              "nama": "Long Bila"
+            },
+            {
+              "adm4": "65.02.08.2002",
+              "nama": "Long Kenipe"
+            },
+            {
+              "adm4": "65.02.08.2003",
+              "nama": "Punan Bengalun"
+            },
+            {
+              "adm4": "65.02.08.2004",
+              "nama": "Sesua"
+            },
+            {
+              "adm4": "65.02.08.2005",
+              "nama": "Sentaban"
+            },
+            {
+              "adm4": "65.02.08.2006",
+              "nama": "Tanjung Lapang"
+            },
+            {
+              "adm4": "65.02.08.2007",
+              "nama": "Taras"
+            },
+            {
+              "adm4": "65.02.08.2008",
+              "nama": "Kuala Lapang"
+            },
+            {
+              "adm4": "65.02.08.2009",
+              "nama": "Sempayang"
+            }
+          ]
+        },
+        {
+          "kode": "65.02.09",
+          "nama": "Sungai Boh",
+          "desa": [
+            {
+              "adm4": "65.02.09.2001",
+              "nama": "Dumu Mahak"
+            },
+            {
+              "adm4": "65.02.09.2002",
+              "nama": "Long Lebusan"
+            },
+            {
+              "adm4": "65.02.09.2003",
+              "nama": "Mahak Baru"
+            },
+            {
+              "adm4": "65.02.09.2004",
+              "nama": "Long Top"
+            },
+            {
+              "adm4": "65.02.09.2005",
+              "nama": "Agung Baru"
+            },
+            {
+              "adm4": "65.02.09.2006",
+              "nama": "Data Baru"
+            }
+          ]
+        },
+        {
+          "kode": "65.02.10",
+          "nama": "Kayan Selatan",
+          "desa": [
+            {
+              "adm4": "65.02.10.2001",
+              "nama": "Long Ampung"
+            },
+            {
+              "adm4": "65.02.10.2002",
+              "nama": "Long Uro"
+            },
+            {
+              "adm4": "65.02.10.2003",
+              "nama": "Lidung Payau"
+            },
+            {
+              "adm4": "65.02.10.2004",
+              "nama": "Sungai Barang"
+            },
+            {
+              "adm4": "65.02.10.2005",
+              "nama": "Metulang"
+            }
+          ]
+        },
+        {
+          "kode": "65.02.11",
+          "nama": "Bahau Hulu",
+          "desa": [
+            {
+              "adm4": "65.02.11.2001",
+              "nama": "Long Uli"
+            },
+            {
+              "adm4": "65.02.11.2002",
+              "nama": "Long Alango"
+            },
+            {
+              "adm4": "65.02.11.2003",
+              "nama": "Long Berini"
+            },
+            {
+              "adm4": "65.02.11.2004",
+              "nama": "Long Tebulo"
+            },
+            {
+              "adm4": "65.02.11.2005",
+              "nama": "Apau Ping"
+            },
+            {
+              "adm4": "65.02.11.2006",
+              "nama": "Long Kemuat"
+            }
+          ]
+        },
+        {
+          "kode": "65.02.12",
+          "nama": "Mentarang Hulu",
+          "desa": [
+            {
+              "adm4": "65.02.12.2001",
+              "nama": "Lung Fala"
+            },
+            {
+              "adm4": "65.02.12.2002",
+              "nama": "Lung Kebinu"
+            },
+            {
+              "adm4": "65.02.12.2003",
+              "nama": "Lung Mekatif"
+            },
+            {
+              "adm4": "65.02.12.2004",
+              "nama": "Lung Simau"
+            },
+            {
+              "adm4": "65.02.12.2005",
+              "nama": "Lung Berang"
+            },
+            {
+              "adm4": "65.02.12.2006",
+              "nama": "Lung Sulit"
+            },
+            {
+              "adm4": "65.02.12.2007",
+              "nama": "Lung Semamu"
+            },
+            {
+              "adm4": "65.02.12.2008",
+              "nama": "Long Gafid"
+            },
+            {
+              "adm4": "65.02.12.2009",
+              "nama": "Temalang"
+            },
+            {
+              "adm4": "65.02.12.2010",
+              "nama": "Long Liku"
+            }
+          ]
+        },
+        {
+          "kode": "65.02.13",
+          "nama": "Malinau Selatan Hilir",
+          "desa": [
+            {
+              "adm4": "65.02.13.2001",
+              "nama": "Setulang"
+            },
+            {
+              "adm4": "65.02.13.2002",
+              "nama": "Setarap"
+            },
+            {
+              "adm4": "65.02.13.2003",
+              "nama": "Punan Setarap"
+            },
+            {
+              "adm4": "65.02.13.2004",
+              "nama": "Batu Kajang"
+            },
+            {
+              "adm4": "65.02.13.2005",
+              "nama": "Gong Solok"
+            },
+            {
+              "adm4": "65.02.13.2006",
+              "nama": "Punan Gong Solok"
+            },
+            {
+              "adm4": "65.02.13.2007",
+              "nama": "Long Adiu"
+            },
+            {
+              "adm4": "65.02.13.2008",
+              "nama": "Punan Long Adiu"
+            }
+          ]
+        },
+        {
+          "kode": "65.02.14",
+          "nama": "Malinau Selatan Hulu",
+          "desa": [
+            {
+              "adm4": "65.02.14.2001",
+              "nama": "Long Lake"
+            },
+            {
+              "adm4": "65.02.14.2002",
+              "nama": "Punan Mirau"
+            },
+            {
+              "adm4": "65.02.14.2003",
+              "nama": "Long Rat"
+            },
+            {
+              "adm4": "65.02.14.2004",
+              "nama": "Halanga"
+            },
+            {
+              "adm4": "65.02.14.2005",
+              "nama": "Metut"
+            },
+            {
+              "adm4": "65.02.14.2006",
+              "nama": "Long Jalan"
+            },
+            {
+              "adm4": "65.02.14.2007",
+              "nama": "Nahakramo"
+            },
+            {
+              "adm4": "65.02.14.2008",
+              "nama": "Tanjung Nanga"
+            }
+          ]
+        },
+        {
+          "kode": "65.02.15",
+          "nama": "Sungai Tubu",
+          "desa": [
+            {
+              "adm4": "65.02.15.2001",
+              "nama": "Long Nyau"
+            },
+            {
+              "adm4": "65.02.15.2002",
+              "nama": "Long Titi"
+            },
+            {
+              "adm4": "65.02.15.2003",
+              "nama": "Long Ranau"
+            },
+            {
+              "adm4": "65.02.15.2004",
+              "nama": "Rian Tubu"
+            },
+            {
+              "adm4": "65.02.15.2005",
+              "nama": "Long Pada"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kode": "65.03",
+      "nama": "Kabupaten Nunukan",
+      "kecamatan": [
+        {
+          "kode": "65.03.01",
+          "nama": "Sebatik",
+          "desa": [
+            {
+              "adm4": "65.03.01.2001",
+              "nama": "Tanjungkarang"
+            },
+            {
+              "adm4": "65.03.01.2002",
+              "nama": "Balansiku"
+            },
+            {
+              "adm4": "65.03.01.2003",
+              "nama": "Sungai Manurung"
+            },
+            {
+              "adm4": "65.03.01.2004",
+              "nama": "Padaidi"
+            }
+          ]
+        },
+        {
+          "kode": "65.03.02",
+          "nama": "Nunukan",
+          "desa": [
+            {
+              "adm4": "65.03.02.1001",
+              "nama": "Nunukan Timur"
+            },
+            {
+              "adm4": "65.03.02.1002",
+              "nama": "Nunukan Barat"
+            },
+            {
+              "adm4": "65.03.02.1003",
+              "nama": "Nunukan Utara"
+            },
+            {
+              "adm4": "65.03.02.1005",
+              "nama": "Nunukan Tengah"
+            },
+            {
+              "adm4": "65.03.02.2004",
+              "nama": "Binusan"
+            }
+          ]
+        },
+        {
+          "kode": "65.03.03",
+          "nama": "Sembakung",
+          "desa": [
+            {
+              "adm4": "65.03.03.2001",
+              "nama": "Tagul"
+            },
+            {
+              "adm4": "65.03.03.2002",
+              "nama": "Lubakan"
+            },
+            {
+              "adm4": "65.03.03.2003",
+              "nama": "Atap"
+            },
+            {
+              "adm4": "65.03.03.2004",
+              "nama": "Manuk Bungkul"
+            },
+            {
+              "adm4": "65.03.03.2005",
+              "nama": "Tujung"
+            },
+            {
+              "adm4": "65.03.03.2006",
+              "nama": "Pagar"
+            },
+            {
+              "adm4": "65.03.03.2007",
+              "nama": "Labuk"
+            },
+            {
+              "adm4": "65.03.03.2008",
+              "nama": "Butas Bagu"
+            },
+            {
+              "adm4": "65.03.03.2009",
+              "nama": "Pelaju"
+            },
+            {
+              "adm4": "65.03.03.2010",
+              "nama": "Tepian"
+            }
+          ]
+        },
+        {
+          "kode": "65.03.04",
+          "nama": "Lumbis",
+          "desa": [
+            {
+              "adm4": "65.03.04.2001",
+              "nama": "Deralon"
+            },
+            {
+              "adm4": "65.03.04.2002",
+              "nama": "Liang"
+            },
+            {
+              "adm4": "65.03.04.2003",
+              "nama": "Dabulon"
+            },
+            {
+              "adm4": "65.03.04.2004",
+              "nama": "Taluan"
+            },
+            {
+              "adm4": "65.03.04.2005",
+              "nama": "Podong"
+            },
+            {
+              "adm4": "65.03.04.2006",
+              "nama": "Patal I"
+            },
+            {
+              "adm4": "65.03.04.2007",
+              "nama": "Siawang"
+            },
+            {
+              "adm4": "65.03.04.2008",
+              "nama": "Sapuyan"
+            },
+            {
+              "adm4": "65.03.04.2009",
+              "nama": "Nainsid"
+            },
+            {
+              "adm4": "65.03.04.2010",
+              "nama": "Sasibu"
+            },
+            {
+              "adm4": "65.03.04.2011",
+              "nama": "Saludan"
+            },
+            {
+              "adm4": "65.03.04.2012",
+              "nama": "Semalat"
+            },
+            {
+              "adm4": "65.03.04.2013",
+              "nama": "Libang"
+            },
+            {
+              "adm4": "65.03.04.2014",
+              "nama": "Sedongon"
+            },
+            {
+              "adm4": "65.03.04.2015",
+              "nama": "Tanjung Hilir"
+            },
+            {
+              "adm4": "65.03.04.2016",
+              "nama": "Sumalumung"
+            },
+            {
+              "adm4": "65.03.04.2017",
+              "nama": "Lintong"
+            },
+            {
+              "adm4": "65.03.04.2018",
+              "nama": "Pulu Bulawan"
+            },
+            {
+              "adm4": "65.03.04.2019",
+              "nama": "Tanjung Hulu"
+            },
+            {
+              "adm4": "65.03.04.2020",
+              "nama": "Patal II"
+            },
+            {
+              "adm4": "65.03.04.2022",
+              "nama": "Sangkub"
+            },
+            {
+              "adm4": "65.03.04.2023",
+              "nama": "Tubus"
+            },
+            {
+              "adm4": "65.03.04.2024",
+              "nama": "Likos"
+            },
+            {
+              "adm4": "65.03.04.2025",
+              "nama": "Bulan-Bulan"
+            },
+            {
+              "adm4": "65.03.04.2026",
+              "nama": "Kalampising"
+            },
+            {
+              "adm4": "65.03.04.2028",
+              "nama": "Mansalong"
+            }
+          ]
+        },
+        {
+          "kode": "65.03.05",
+          "nama": "Krayan",
+          "desa": [
+            {
+              "adm4": "65.03.05.2003",
+              "nama": "Cinglat"
+            },
+            {
+              "adm4": "65.03.05.2022",
+              "nama": "Liang Butan"
+            },
+            {
+              "adm4": "65.03.05.2030",
+              "nama": "Ba Sikor"
+            },
+            {
+              "adm4": "65.03.05.2032",
+              "nama": "Buduk Kinangan"
+            },
+            {
+              "adm4": "65.03.05.2033",
+              "nama": "Liang Tuer"
+            },
+            {
+              "adm4": "65.03.05.2034",
+              "nama": "Buduk Tumu"
+            },
+            {
+              "adm4": "65.03.05.2035",
+              "nama": "Long Berayang"
+            },
+            {
+              "adm4": "65.03.05.2039",
+              "nama": "Long Nawang"
+            },
+            {
+              "adm4": "65.03.05.2040",
+              "nama": "Long Katung"
+            },
+            {
+              "adm4": "65.03.05.2041",
+              "nama": "Long Bawan"
+            },
+            {
+              "adm4": "65.03.05.2044",
+              "nama": "Long Matung"
+            },
+            {
+              "adm4": "65.03.05.2045",
+              "nama": "Long Rupan"
+            },
+            {
+              "adm4": "65.03.05.2046",
+              "nama": "Liang Biadung"
+            }
+          ]
+        },
+        {
+          "kode": "65.03.06",
+          "nama": "Sebuku",
+          "desa": [
+            {
+              "adm4": "65.03.06.2001",
+              "nama": "Pembeliangan"
+            },
+            {
+              "adm4": "65.03.06.2002",
+              "nama": "Apas"
+            },
+            {
+              "adm4": "65.03.06.2003",
+              "nama": "Kunyit"
+            },
+            {
+              "adm4": "65.03.06.2004",
+              "nama": "Tetaban"
+            },
+            {
+              "adm4": "65.03.06.2005",
+              "nama": "Kekayap"
+            },
+            {
+              "adm4": "65.03.06.2006",
+              "nama": "Bebanas"
+            },
+            {
+              "adm4": "65.03.06.2007",
+              "nama": "Lulu"
+            },
+            {
+              "adm4": "65.03.06.2008",
+              "nama": "Sujau"
+            },
+            {
+              "adm4": "65.03.06.2009",
+              "nama": "Melasu Baru"
+            },
+            {
+              "adm4": "65.03.06.2010",
+              "nama": "Harapan"
+            }
+          ]
+        },
+        {
+          "kode": "65.03.07",
+          "nama": "Krayan Selatan",
+          "desa": [
+            {
+              "adm4": "65.03.07.2001",
+              "nama": "Long Pasia"
+            },
+            {
+              "adm4": "65.03.07.2002",
+              "nama": "Liang Lunuk"
+            },
+            {
+              "adm4": "65.03.07.2010",
+              "nama": "Long Birar"
+            },
+            {
+              "adm4": "65.03.07.2016",
+              "nama": "Long Budung"
+            },
+            {
+              "adm4": "65.03.07.2018",
+              "nama": "Long Pupung"
+            }
+          ]
+        },
+        {
+          "kode": "65.03.08",
+          "nama": "Sebatik Barat",
+          "desa": [
+            {
+              "adm4": "65.03.08.2001",
+              "nama": "Liang Bunyu"
+            },
+            {
+              "adm4": "65.03.08.2002",
+              "nama": "Binalawan"
+            },
+            {
+              "adm4": "65.03.08.2003",
+              "nama": "Setabu"
+            },
+            {
+              "adm4": "65.03.08.2004",
+              "nama": "Bambangan"
+            }
+          ]
+        },
+        {
+          "kode": "65.03.09",
+          "nama": "Nunukan Selatan",
+          "desa": [
+            {
+              "adm4": "65.03.09.1001",
+              "nama": "Selisun"
+            },
+            {
+              "adm4": "65.03.09.1002",
+              "nama": "Nunukan Selatan"
+            },
+            {
+              "adm4": "65.03.09.1003",
+              "nama": "Mansapa"
+            },
+            {
+              "adm4": "65.03.09.1004",
+              "nama": "Tanjung Harapan"
+            }
+          ]
+        },
+        {
+          "kode": "65.03.10",
+          "nama": "Sebatik Timur",
+          "desa": [
+            {
+              "adm4": "65.03.10.2001",
+              "nama": "Sungai Nyamuk"
+            },
+            {
+              "adm4": "65.03.10.2002",
+              "nama": "Tanjung Harapan"
+            },
+            {
+              "adm4": "65.03.10.2003",
+              "nama": "Bukit Aru Indah"
+            },
+            {
+              "adm4": "65.03.10.2004",
+              "nama": "Tanjung Aru"
+            }
+          ]
+        },
+        {
+          "kode": "65.03.11",
+          "nama": "Sebatik Utara",
+          "desa": [
+            {
+              "adm4": "65.03.11.2001",
+              "nama": "Sungai Pancang"
+            },
+            {
+              "adm4": "65.03.11.2002",
+              "nama": "Lapri"
+            },
+            {
+              "adm4": "65.03.11.2003",
+              "nama": "Seberang"
+            }
+          ]
+        },
+        {
+          "kode": "65.03.12",
+          "nama": "Sebatik Tengah",
+          "desa": [
+            {
+              "adm4": "65.03.12.2001",
+              "nama": "Sungai Limau"
+            },
+            {
+              "adm4": "65.03.12.2002",
+              "nama": "Maspul"
+            },
+            {
+              "adm4": "65.03.12.2003",
+              "nama": "Aji Kuning"
+            },
+            {
+              "adm4": "65.03.12.2004",
+              "nama": "Bukit Harapan"
+            }
+          ]
+        },
+        {
+          "kode": "65.03.13",
+          "nama": "Sei Menggaris",
+          "desa": [
+            {
+              "adm4": "65.03.13.2001",
+              "nama": "Srinanti"
+            },
+            {
+              "adm4": "65.03.13.2002",
+              "nama": "Tabur Lestari"
+            },
+            {
+              "adm4": "65.03.13.2003",
+              "nama": "Samaenre Semaja"
+            },
+            {
+              "adm4": "65.03.13.2004",
+              "nama": "Sekaduyan Taka"
+            }
+          ]
+        },
+        {
+          "kode": "65.03.14",
+          "nama": "Tulin Onsoi",
+          "desa": [
+            {
+              "adm4": "65.03.14.2001",
+              "nama": "Sanur"
+            },
+            {
+              "adm4": "65.03.14.2002",
+              "nama": "Makmur"
+            },
+            {
+              "adm4": "65.03.14.2003",
+              "nama": "Semunad"
+            },
+            {
+              "adm4": "65.03.14.2004",
+              "nama": "Sekikilan"
+            },
+            {
+              "adm4": "65.03.14.2005",
+              "nama": "Kalunsayan"
+            },
+            {
+              "adm4": "65.03.14.2006",
+              "nama": "Tembalang"
+            },
+            {
+              "adm4": "65.03.14.2007",
+              "nama": "Salang"
+            },
+            {
+              "adm4": "65.03.14.2008",
+              "nama": "Tinampak I"
+            },
+            {
+              "adm4": "65.03.14.2009",
+              "nama": "Tinampak II"
+            },
+            {
+              "adm4": "65.03.14.2010",
+              "nama": "Naputi"
+            },
+            {
+              "adm4": "65.03.14.2011",
+              "nama": "Tau Baru"
+            },
+            {
+              "adm4": "65.03.14.2012",
+              "nama": "Balatikon"
+            }
+          ]
+        },
+        {
+          "kode": "65.03.15",
+          "nama": "Lumbis Ogong",
+          "desa": [
+            {
+              "adm4": "65.03.15.2001",
+              "nama": "Payang"
+            },
+            {
+              "adm4": "65.03.15.2002",
+              "nama": "Suyadon"
+            },
+            {
+              "adm4": "65.03.15.2003",
+              "nama": "Bulu Mengolom"
+            },
+            {
+              "adm4": "65.03.15.2004",
+              "nama": "Tukulon"
+            },
+            {
+              "adm4": "65.03.15.2005",
+              "nama": "Ubol Sulok"
+            },
+            {
+              "adm4": "65.03.15.2006",
+              "nama": "Batung"
+            },
+            {
+              "adm4": "65.03.15.2007",
+              "nama": "Ubol Alung"
+            },
+            {
+              "adm4": "65.03.15.2008",
+              "nama": "Nansapan"
+            },
+            {
+              "adm4": "65.03.15.2009",
+              "nama": "Samunti"
+            },
+            {
+              "adm4": "65.03.15.2010",
+              "nama": "Semata"
+            },
+            {
+              "adm4": "65.03.15.2011",
+              "nama": "Sungoi"
+            },
+            {
+              "adm4": "65.03.15.2012",
+              "nama": "Salan"
+            },
+            {
+              "adm4": "65.03.15.2013",
+              "nama": "Sinampila I"
+            },
+            {
+              "adm4": "65.03.15.2014",
+              "nama": "Paluan"
+            },
+            {
+              "adm4": "65.03.15.2015",
+              "nama": "Sedalit"
+            },
+            {
+              "adm4": "65.03.15.2016",
+              "nama": "Tambalang Hilir"
+            },
+            {
+              "adm4": "65.03.15.2017",
+              "nama": "Tadungus"
+            },
+            {
+              "adm4": "65.03.15.2018",
+              "nama": "Sinampila II"
+            },
+            {
+              "adm4": "65.03.15.2019",
+              "nama": "Kalambuku"
+            },
+            {
+              "adm4": "65.03.15.2020",
+              "nama": "Jukup"
+            },
+            {
+              "adm4": "65.03.15.2021",
+              "nama": "Long Bulu"
+            },
+            {
+              "adm4": "65.03.15.2023",
+              "nama": "Linsayung"
+            },
+            {
+              "adm4": "65.03.15.2024",
+              "nama": "Tumantalas"
+            },
+            {
+              "adm4": "65.03.15.2025",
+              "nama": "Sanal"
+            },
+            {
+              "adm4": "65.03.15.2026",
+              "nama": "Limpakon"
+            },
+            {
+              "adm4": "65.03.15.2027",
+              "nama": "Labuk"
+            }
+          ]
+        },
+        {
+          "kode": "65.03.16",
+          "nama": "Sembakung Atulai",
+          "desa": [
+            {
+              "adm4": "65.03.16.2001",
+              "nama": "Lubok Buat"
+            },
+            {
+              "adm4": "65.03.16.2002",
+              "nama": "Katul"
+            },
+            {
+              "adm4": "65.03.16.2003",
+              "nama": "Mambulu"
+            },
+            {
+              "adm4": "65.03.16.2004",
+              "nama": "Pagaluyon"
+            },
+            {
+              "adm4": "65.03.16.2005",
+              "nama": "Saduman"
+            },
+            {
+              "adm4": "65.03.16.2006",
+              "nama": "Tulang"
+            },
+            {
+              "adm4": "65.03.16.2007",
+              "nama": "Sabuluan"
+            },
+            {
+              "adm4": "65.03.16.2008",
+              "nama": "Pulau Keras"
+            },
+            {
+              "adm4": "65.03.16.2009",
+              "nama": "Liuk Bulu"
+            },
+            {
+              "adm4": "65.03.16.2010",
+              "nama": "Binanun"
+            }
+          ]
+        },
+        {
+          "kode": "65.03.17",
+          "nama": "Krayan Tengah",
+          "desa": [
+            {
+              "adm4": "65.03.17.2001",
+              "nama": "Tang Paye"
+            },
+            {
+              "adm4": "65.03.17.2002",
+              "nama": "Long Rungan"
+            },
+            {
+              "adm4": "65.03.17.2003",
+              "nama": "Long Kelupan"
+            },
+            {
+              "adm4": "65.03.17.2004",
+              "nama": "Long Padi"
+            },
+            {
+              "adm4": "65.03.17.2005",
+              "nama": "Tang Badui"
+            },
+            {
+              "adm4": "65.03.17.2006",
+              "nama": "Binuang"
+            },
+            {
+              "adm4": "65.03.17.2007",
+              "nama": "Long Mutan"
+            },
+            {
+              "adm4": "65.03.17.2010",
+              "nama": "Long Rian"
+            }
+          ]
+        },
+        {
+          "kode": "65.03.18",
+          "nama": "Krayan Timur",
+          "desa": [
+            {
+              "adm4": "65.03.18.2002",
+              "nama": "Long Sepayang"
+            },
+            {
+              "adm4": "65.03.18.2008",
+              "nama": "Long Umung"
+            },
+            {
+              "adm4": "65.03.18.2009",
+              "nama": "Long Tenem"
+            },
+            {
+              "adm4": "65.03.18.2010",
+              "nama": "Long Nuat"
+            },
+            {
+              "adm4": "65.03.18.2012",
+              "nama": "Sinar Baru"
+            },
+            {
+              "adm4": "65.03.18.2015",
+              "nama": "Bungayan"
+            },
+            {
+              "adm4": "65.03.18.2017",
+              "nama": "Kampung Baru"
+            }
+          ]
+        },
+        {
+          "kode": "65.03.19",
+          "nama": "Krayan Barat",
+          "desa": [
+            {
+              "adm4": "65.03.19.2002",
+              "nama": "Long Puak"
+            },
+            {
+              "adm4": "65.03.19.2003",
+              "nama": "Long Mangan"
+            },
+            {
+              "adm4": "65.03.19.2004",
+              "nama": "Buduk Kubul"
+            },
+            {
+              "adm4": "65.03.19.2005",
+              "nama": "Long Kabid"
+            },
+            {
+              "adm4": "65.03.19.2007",
+              "nama": "Lembudud"
+            },
+            {
+              "adm4": "65.03.19.2008",
+              "nama": "Long Tugul"
+            },
+            {
+              "adm4": "65.03.19.2014",
+              "nama": "Lembada"
+            },
+            {
+              "adm4": "65.03.19.2017",
+              "nama": "Liang Aliq"
+            },
+            {
+              "adm4": "65.03.19.2018",
+              "nama": "Sembudud"
+            },
+            {
+              "adm4": "65.03.19.2019",
+              "nama": "Liang Turan"
+            },
+            {
+              "adm4": "65.03.19.2020",
+              "nama": "Liang Bua"
+            },
+            {
+              "adm4": "65.03.19.2021",
+              "nama": "Lepatar"
+            }
+          ]
+        },
+        {
+          "kode": "65.03.20",
+          "nama": "Lumbis Pansiangan",
+          "desa": [
+            {
+              "adm4": "65.03.20.2001",
+              "nama": "Sumentobol"
+            },
+            {
+              "adm4": "65.03.20.2002",
+              "nama": "Nantukidan"
+            },
+            {
+              "adm4": "65.03.20.2003",
+              "nama": "Labang"
+            },
+            {
+              "adm4": "65.03.20.2004",
+              "nama": "Sumantipal"
+            },
+            {
+              "adm4": "65.03.20.2005",
+              "nama": "Ngawol"
+            },
+            {
+              "adm4": "65.03.20.2006",
+              "nama": "Bululaun Hilir"
+            },
+            {
+              "adm4": "65.03.20.2007",
+              "nama": "Lagas"
+            },
+            {
+              "adm4": "65.03.20.2008",
+              "nama": "Panas"
+            },
+            {
+              "adm4": "65.03.20.2009",
+              "nama": "Langgason"
+            },
+            {
+              "adm4": "65.03.20.2010",
+              "nama": "Tantalujuk"
+            },
+            {
+              "adm4": "65.03.20.2011",
+              "nama": "Tambalang Hulu"
+            },
+            {
+              "adm4": "65.03.20.2012",
+              "nama": "Kuyo"
+            },
+            {
+              "adm4": "65.03.20.2013",
+              "nama": "Bokok"
+            }
+          ]
+        },
+        {
+          "kode": "65.03.21",
+          "nama": "Lumbis Hulu",
+          "desa": [
+            {
+              "adm4": "65.03.21.2001",
+              "nama": "Tau Lumbis"
+            },
+            {
+              "adm4": "65.03.21.2002",
+              "nama": "Lipaga"
+            },
+            {
+              "adm4": "65.03.21.2003",
+              "nama": "Bululaun Hulu"
+            },
+            {
+              "adm4": "65.03.21.2004",
+              "nama": "Kalisun"
+            },
+            {
+              "adm4": "65.03.21.2005",
+              "nama": "Mamasin"
+            },
+            {
+              "adm4": "65.03.21.2006",
+              "nama": "Sibalu"
+            },
+            {
+              "adm4": "65.03.21.2007",
+              "nama": "Duyan"
+            },
+            {
+              "adm4": "65.03.21.2008",
+              "nama": "Tuntulibing"
+            },
+            {
+              "adm4": "65.03.21.2009",
+              "nama": "Tetagas"
+            },
+            {
+              "adm4": "65.03.21.2010",
+              "nama": "Kabungolor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kode": "65.04",
+      "nama": "Kabupaten Tana Tidung",
+      "kecamatan": [
+        {
+          "kode": "65.04.01",
+          "nama": "Sesayap",
+          "desa": [
+            {
+              "adm4": "65.04.01.2001",
+              "nama": "Tideng Pale"
+            },
+            {
+              "adm4": "65.04.01.2002",
+              "nama": "Limbu Sedulun"
+            },
+            {
+              "adm4": "65.04.01.2003",
+              "nama": "Sebidai"
+            },
+            {
+              "adm4": "65.04.01.2004",
+              "nama": "Sedulun"
+            },
+            {
+              "adm4": "65.04.01.2005",
+              "nama": "Tideng Pale Timur"
+            },
+            {
+              "adm4": "65.04.01.2006",
+              "nama": "Gunawan"
+            },
+            {
+              "adm4": "65.04.01.2007",
+              "nama": "Sebawang"
+            }
+          ]
+        },
+        {
+          "kode": "65.04.02",
+          "nama": "Sesayap Hilir",
+          "desa": [
+            {
+              "adm4": "65.04.02.2001",
+              "nama": "Sesayap"
+            },
+            {
+              "adm4": "65.04.02.2002",
+              "nama": "Sengkong"
+            },
+            {
+              "adm4": "65.04.02.2003",
+              "nama": "Bebatu"
+            },
+            {
+              "adm4": "65.04.02.2004",
+              "nama": "Bandan Bikis"
+            },
+            {
+              "adm4": "65.04.02.2005",
+              "nama": "Sepala Dalung"
+            },
+            {
+              "adm4": "65.04.02.2006",
+              "nama": "Seludau"
+            },
+            {
+              "adm4": "65.04.02.2007",
+              "nama": "Menjelutung"
+            },
+            {
+              "adm4": "65.04.02.2008",
+              "nama": "Sesayap Selor"
+            }
+          ]
+        },
+        {
+          "kode": "65.04.03",
+          "nama": "Tana Lia",
+          "desa": [
+            {
+              "adm4": "65.04.03.2001",
+              "nama": "Tanah Merah"
+            },
+            {
+              "adm4": "65.04.03.2002",
+              "nama": "Tengku Dacing"
+            },
+            {
+              "adm4": "65.04.03.2003",
+              "nama": "Sambungan"
+            },
+            {
+              "adm4": "65.04.03.2004",
+              "nama": "Tanah Merah Barat"
+            },
+            {
+              "adm4": "65.04.03.2005",
+              "nama": "Sambungan Selatan"
+            }
+          ]
+        },
+        {
+          "kode": "65.04.04",
+          "nama": "Betayau",
+          "desa": [
+            {
+              "adm4": "65.04.04.2001",
+              "nama": "Buong Baru"
+            },
+            {
+              "adm4": "65.04.04.2002",
+              "nama": "Bebakung"
+            },
+            {
+              "adm4": "65.04.04.2003",
+              "nama": "Kujau"
+            },
+            {
+              "adm4": "65.04.04.2004",
+              "nama": "Mendupo"
+            },
+            {
+              "adm4": "65.04.04.2005",
+              "nama": "Maning"
+            },
+            {
+              "adm4": "65.04.04.2006",
+              "nama": "Periuk"
+            }
+          ]
+        },
+        {
+          "kode": "65.04.05",
+          "nama": "Muruk Rian",
+          "desa": [
+            {
+              "adm4": "65.04.05.2001",
+              "nama": "Seputuk"
+            },
+            {
+              "adm4": "65.04.05.2002",
+              "nama": "Rian"
+            },
+            {
+              "adm4": "65.04.05.2003",
+              "nama": "Balayan Ari"
+            },
+            {
+              "adm4": "65.04.05.2004",
+              "nama": "Rian Rayo"
+            },
+            {
+              "adm4": "65.04.05.2005",
+              "nama": "Kapuak"
+            },
+            {
+              "adm4": "65.04.05.2006",
+              "nama": "Sapari"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kode": "65.71",
+      "nama": "Kota Tarakan",
+      "kecamatan": [
+        {
+          "kode": "65.71.01",
+          "nama": "Tarakan Barat",
+          "desa": [
+            {
+              "adm4": "65.71.01.1001",
+              "nama": "Karang Anyar"
+            },
+            {
+              "adm4": "65.71.01.1002",
+              "nama": "Karang Rejo"
+            },
+            {
+              "adm4": "65.71.01.1003",
+              "nama": "Karang Anyar Pantai"
+            },
+            {
+              "adm4": "65.71.01.1004",
+              "nama": "Karang Balik"
+            },
+            {
+              "adm4": "65.71.01.1005",
+              "nama": "Karang Harapan"
+            }
+          ]
+        },
+        {
+          "kode": "65.71.02",
+          "nama": "Tarakan Tengah",
+          "desa": [
+            {
+              "adm4": "65.71.02.1001",
+              "nama": "Kampung I Skip"
+            },
+            {
+              "adm4": "65.71.02.1002",
+              "nama": "Pamusian"
+            },
+            {
+              "adm4": "65.71.02.1003",
+              "nama": "Sebengkok"
+            },
+            {
+              "adm4": "65.71.02.1004",
+              "nama": "Selumit"
+            },
+            {
+              "adm4": "65.71.02.1005",
+              "nama": "Selumit Pantai"
+            }
+          ]
+        },
+        {
+          "kode": "65.71.03",
+          "nama": "Tarakan Timur",
+          "desa": [
+            {
+              "adm4": "65.71.03.1001",
+              "nama": "Lingkas Ujung"
+            },
+            {
+              "adm4": "65.71.03.1002",
+              "nama": "Gunung Lingkas"
+            },
+            {
+              "adm4": "65.71.03.1003",
+              "nama": "Kampung Empat"
+            },
+            {
+              "adm4": "65.71.03.1004",
+              "nama": "Kampung Enam"
+            },
+            {
+              "adm4": "65.71.03.1005",
+              "nama": "Mamburungan"
+            },
+            {
+              "adm4": "65.71.03.1006",
+              "nama": "Pantai Amal"
+            },
+            {
+              "adm4": "65.71.03.1007",
+              "nama": "Mamburungan Timur"
+            }
+          ]
+        },
+        {
+          "kode": "65.71.04",
+          "nama": "Tarakan Utara",
+          "desa": [
+            {
+              "adm4": "65.71.04.1001",
+              "nama": "Juata Laut"
+            },
+            {
+              "adm4": "65.71.04.1002",
+              "nama": "Juata Permai"
+            },
+            {
+              "adm4": "65.71.04.1003",
+              "nama": "Juata Kerikil"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

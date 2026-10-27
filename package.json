@@ -1,0 +1,21 @@
+{
+  "name": "peatguard-cuaca",
+  "version": "1.0.0",
+  "description": "Website informasi cuaca karhutla untuk relawan dan warga desa di Kalimantan",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "build:wilayah": "node scripts/build-wilayah.js",
+    "dev": "vercel dev",
+    "test": "node --experimental-vm-modules tests/risk.test.js"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "vercel": "^33.0.0"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "transform": {}
+  }
+}

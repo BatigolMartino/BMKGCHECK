@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "functions": {
+    "api/forecast.js": {
+      "memory": 256,
+      "maxDuration": 15
+    },
+    "api/alerts.js": {
+      "memory": 256,
+      "maxDuration": 15
+    }
+  },
+  "headers": [
+    {
+      "source": "/api/(.*)",
+      "headers": [
+        { "key": "Access-Control-Allow-Origin", "value": "*" },
+        { "key": "Access-Control-Allow-Methods", "value": "GET, OPTIONS" }
+      ]
+    },
+    {
+      "source": "/data/(.*)\\.json",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=86400, stale-while-revalidate=3600"
+        }
+      ]
+    }
+  ]
+}

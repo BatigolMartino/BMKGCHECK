@@ -1,0 +1,340 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-stylesheet type="text/xsl" href="https://cuaca.bmkg.go.id/data/public/cap/rss-style.xsl"?>
+    <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+        <channel>
+            <title>Peringatan Dini Cuaca BMKG</title>
+            <link>https://cuaca.bmkg.go.id/data/public/cap/nowcast/id/rss.xml</link>
+            <description>Peringatan Dini Cuaca dari BMKG (Badan Meteorologi, Klimatologi, dan Geofisika)</description>
+            <atom:link href="https://cuaca.bmkg.go.id/data/public/cap/nowcast/id/rss.xml" rel="self" type="application/rss+xml"/>
+            <language>id</language>
+            <copyright>public domain</copyright>
+            <pubDate>Tue, 27 Oct 2026 05:15:06 +0000</pubDate>
+            <lastBuildDate>Tue, 27 Oct 2026 05:15:06 +0000</lastBuildDate>
+            <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+            
+        <item>
+            <title>Hujan Lebat disertai Petir di Bali</title>
+            <link>https://cuaca.bmkg.go.id/data/public/cap/nowcast/id/CBL20261027002_alert.xml</link>
+            <description>Hujan lebat disertai petir akan terjadi pada 27 October 2026, 13:10 WITA di sebagian wilayah Bali, khususnya di KEDIRI, MENGWI.
+ Kondisi ini berpotensi menimbulkan dampak berupa jarak pandang berkurang, angin kencang, dan banjir lokal.
+ Masyarakat dihimbau untuk tetap waspada, mengurangi aktivitas di luar ruangan, serta mengambil langkah-langkah pencegahan yang diperlukan guna menjaga keselamatan.
+ Kondisi diperkirakan dapat berlangsung hingga 27 October 2026, 15:10 WITA.</description>
+            <author>cuaca.ekstrem@bmkg.go.id (BMKG)</author>
+            <category>Met</category>
+            <guid isPermaLink="false">2.49.0.1.360.0.2026.10.27.05.51.002</guid>
+            <pubDate>Tue, 27 Oct 2026 13:07:00 +0800</pubDate>
+        </item>
+
+        <item>
+            <title>Hujan Lebat disertai Petir di Gorontalo</title>
+            <link>https://cuaca.bmkg.go.id/data/public/cap/nowcast/id/CGT20261027002_alert.xml</link>
+            <description>Hujan lebat disertai petir akan terjadi pada 27 October 2026, 13:15 WITA di sebagian wilayah Gorontalo, khususnya di POPAYATO BARAT.
+ Kondisi ini berpotensi menimbulkan dampak berupa jarak pandang berkurang, angin kencang, dan banjir lokal.
+ Masyarakat dihimbau untuk tetap waspada, mengurangi aktivitas di luar ruangan, serta mengambil langkah-langkah pencegahan yang diperlukan guna menjaga keselamatan.
+ Kondisi diperkirakan dapat berlangsung hingga 27 October 2026, 15:15 WITA.</description>
+            <author>cuaca.ekstrem@bmkg.go.id (BMKG)</author>
+            <category>Met</category>
+            <guid isPermaLink="false">2.49.0.1.360.0.2026.10.27.05.75.002</guid>
+            <pubDate>Tue, 27 Oct 2026 13:02:00 +0800</pubDate>
+        </item>
+
+        <item>
+            <title>Hujan Lebat disertai Petir di Nusa Tenggara Barat</title>
+            <link>https://cuaca.bmkg.go.id/data/public/cap/nowcast/id/CNB20261027003_alert.xml</link>
+            <description>Hujan lebat disertai petir akan terjadi pada 27 October 2026, 12:50 WITA di sebagian wilayah Nusa Tenggara Barat, khususnya di MARONGE, PEKAT, PLAMPANG, TERARA.
+ Kondisi ini berpotensi menimbulkan dampak berupa jarak pandang berkurang, angin kencang, dan banjir lokal.
+ Masyarakat dihimbau untuk tetap waspada, mengurangi aktivitas di luar ruangan, serta mengambil langkah-langkah pencegahan yang diperlukan guna menjaga keselamatan.
+ Kondisi diperkirakan dapat berlangsung hingga 27 October 2026, 14:30 WITA.</description>
+            <author>cuaca.ekstrem@bmkg.go.id (BMKG)</author>
+            <category>Met</category>
+            <guid isPermaLink="false">2.49.0.1.360.0.2026.10.27.05.52.003</guid>
+            <pubDate>Tue, 27 Oct 2026 12:48:00 +0800</pubDate>
+        </item>
+
+        <item>
+            <title>Hujan Lebat disertai Petir di Papua</title>
+            <link>https://cuaca.bmkg.go.id/data/public/cap/nowcast/id/CPU20261027003_alert.xml</link>
+            <description>Hujan lebat disertai petir akan terjadi pada 27 October 2026, 13:45 WIT di sebagian wilayah Papua, khususnya di ANGKAISERA, APAWER HULU, BIAK TIMUR, BIAK UTARA, KEMTUK, KEMTUK GRESI, MAMBERAMO TENGAH, MUARA TAMI, SAMOFA, SARMI SELATAN, TOR ATAS, YAPEN UTARA, YENDIDORI.
+ Kondisi ini berpotensi menimbulkan dampak berupa jarak pandang berkurang, angin kencang, dan banjir lokal.
+ Masyarakat dihimbau untuk tetap waspada, mengurangi aktivitas di luar ruangan, serta mengambil langkah-langkah pencegahan yang diperlukan guna menjaga keselamatan.
+ Kondisi diperkirakan dapat berlangsung hingga 27 October 2026, 15:45 WIT.</description>
+            <author>cuaca.ekstrem@bmkg.go.id (BMKG)</author>
+            <category>Met</category>
+            <guid isPermaLink="false">2.49.0.1.360.0.2026.10.27.05.91.003</guid>
+            <pubDate>Tue, 27 Oct 2026 13:42:00 +0900</pubDate>
+        </item>
+
+        <item>
+            <title>Hujan Lebat disertai Petir di Kep. Bangka Belitung</title>
+            <link>https://cuaca.bmkg.go.id/data/public/cap/nowcast/id/CBB20261027002_alert.xml</link>
+            <description>Hujan lebat disertai petir akan terjadi pada 27 October 2026, 11:50 WIB di sebagian wilayah Kep. Bangka Belitung, khususnya di BELINYU, KELAPA, PUDING BESAR, RIAU SILIP.
+ Kondisi ini berpotensi menimbulkan dampak berupa jarak pandang berkurang, angin kencang, dan banjir lokal.
+ Masyarakat dihimbau untuk tetap waspada, mengurangi aktivitas di luar ruangan, serta mengambil langkah-langkah pencegahan yang diperlukan guna menjaga keselamatan.
+ Kondisi diperkirakan dapat berlangsung hingga 27 October 2026, 15:11 WIB.</description>
+            <author>cuaca.ekstrem@bmkg.go.id (BMKG)</author>
+            <category>Met</category>
+            <guid isPermaLink="false">2.49.0.1.360.0.2026.10.27.05.19.002</guid>
+            <pubDate>Tue, 27 Oct 2026 11:40:00 +0700</pubDate>
+        </item>
+
+        <item>
+            <title>Hujan Lebat disertai Petir di Riau</title>
+            <link>https://cuaca.bmkg.go.id/data/public/cap/nowcast/id/CRU20261027001_alert.xml</link>
+            <description>Hujan lebat disertai petir akan terjadi pada 27 October 2026, 11:45 WIB di sebagian wilayah Riau, khususnya di BANTAN, KAMPAR, KATEMAN, KEPENUHAN, KEPENUHAN HULU, KUNTO DARUSSALAM, MANDAH, PELANGIRAN, RAMBAH SAMO, RANGSANG, RANGSANG PESISIR, SINABOI, SUNGAI APIT, SUNGAI SEMBILAN, TAMPAN.
+ Kondisi ini berpotensi menimbulkan dampak berupa jarak pandang berkurang, angin kencang, dan banjir lokal.
+ Masyarakat dihimbau untuk tetap waspada, mengurangi aktivitas di luar ruangan, serta mengambil langkah-langkah pencegahan yang diperlukan guna menjaga keselamatan.
+ Kondisi diperkirakan dapat berlangsung hingga 27 October 2026, 13:45 WIB.</description>
+            <author>cuaca.ekstrem@bmkg.go.id (BMKG)</author>
+            <category>Met</category>
+            <guid isPermaLink="false">2.49.0.1.360.0.2026.10.27.05.14.001</guid>
+            <pubDate>Tue, 27 Oct 2026 11:35:00 +0700</pubDate>
+        </item>
+
+        <item>
+            <title>Hujan Lebat disertai Petir di Jawa Timur</title>
+            <link>https://cuaca.bmkg.go.id/data/public/cap/nowcast/id/CJT20261027003_alert.xml</link>
+            <description>Hujan lebat disertai petir akan terjadi pada 27 October 2026, 12:00 WIB di sebagian wilayah Jawa Timur, khususnya di BENOWO, BONDOWOSO, CAMPLONG, CURAHDAMI, GRUJUGAN, JAMBESARI DARUS SHOLAH, KABUH, KADUR, KEBOMAS, KEDUNGADEM, KENJERAN, LARANGAN, MAESAN, OMBEN, PADEMAWU, PAKAL, PALENGGAAN, PAMEKASAN, PANTI, PROPPO, RENGEL, SAMPANG, SEMAMPIR, SUKORAMBI, TAMANAN, TENGGARANG, TLANAKAN.
+ Kondisi ini berpotensi menimbulkan dampak berupa jarak pandang berkurang, angin kencang, dan banjir lokal.
+ Masyarakat dihimbau untuk tetap waspada, mengurangi aktivitas di luar ruangan, serta mengambil langkah-langkah pencegahan yang diperlukan guna menjaga keselamatan.
+ Kondisi diperkirakan dapat berlangsung hingga 27 October 2026, 15:00 WIB.</description>
+            <author>cuaca.ekstrem@bmkg.go.id (BMKG)</author>
+            <category>Met</category>
+            <guid isPermaLink="false">2.49.0.1.360.0.2026.10.27.05.35.003</guid>
+            <pubDate>Tue, 27 Oct 2026 11:30:00 +0700</pubDate>
+        </item>
+
+        <item>
+            <title>Hujan Lebat disertai Petir di Maluku Utara</title>
+            <link>https://cuaca.bmkg.go.id/data/public/cap/nowcast/id/CMU20261027002_alert.xml</link>
+            <description>Hujan lebat disertai petir akan terjadi pada 27 October 2026, 14:00 WIT di sebagian wilayah Maluku Utara, khususnya di GALELA SELATAN, KAO BARAT, KOTA MABA, MOROTAI SELATAN, MOROTAI SELATAN BARAT, SAHU TIMUR, TOBELO BARAT, TOBELO UTARA, WASILE, WASILE SELATAN, WASILE TENGAH, WASILE TIMUR.
+ Kondisi ini berpotensi menimbulkan dampak berupa jarak pandang berkurang, angin kencang, dan banjir lokal.
+ Masyarakat dihimbau untuk tetap waspada, mengurangi aktivitas di luar ruangan, serta mengambil langkah-langkah pencegahan yang diperlukan guna menjaga keselamatan.
+ Kondisi diperkirakan dapat berlangsung hingga 27 October 2026, 16:00 WIT.</description>
+            <author>cuaca.ekstrem@bmkg.go.id (BMKG)</author>
+            <category>Met</category>
+            <guid isPermaLink="false">2.49.0.1.360.0.2026.10.27.05.82.002</guid>
+            <pubDate>Tue, 27 Oct 2026 13:30:00 +0900</pubDate>
+        </item>
+
+        <item>
+            <title>Hujan Lebat disertai Petir di Jawa Barat</title>
+            <link>https://cuaca.bmkg.go.id/data/public/cap/nowcast/id/CJB20261027001_alert.xml</link>
+            <description>Hujan lebat disertai petir akan terjadi pada 27 October 2026, 11:40 WIB di sebagian wilayah Jawa Barat, khususnya di CIKAUM, PATOKBEUSI, PURWADADI, SUKALARANG, SUKARAJA.
+ Kondisi ini berpotensi menimbulkan dampak berupa jarak pandang berkurang, angin kencang, dan banjir lokal.
+ Masyarakat dihimbau untuk tetap waspada, mengurangi aktivitas di luar ruangan, serta mengambil langkah-langkah pencegahan yang diperlukan guna menjaga keselamatan.
+ Kondisi diperkirakan dapat berlangsung hingga 27 October 2026, 13:00 WIB.</description>
+            <author>cuaca.ekstrem@bmkg.go.id (BMKG)</author>
+            <category>Met</category>
+            <guid isPermaLink="false">2.49.0.1.360.0.2026.10.27.05.32.001</guid>
+            <pubDate>Tue, 27 Oct 2026 11:30:00 +0700</pubDate>
+        </item>
+
+        <item>
+            <title>Hujan Lebat disertai Petir di Jambi</title>
+            <link>https://cuaca.bmkg.go.id/data/public/cap/nowcast/id/CJI20261027002_alert.xml</link>
+            <description>Hujan lebat disertai petir akan terjadi pada 27 October 2026, 12:00 WIB di sebagian wilayah Jambi, khususnya di NIPAH PANJANG.
+ Kondisi ini berpotensi menimbulkan dampak berupa jarak pandang berkurang, angin kencang, dan banjir lokal.
+ Masyarakat dihimbau untuk tetap waspada, mengurangi aktivitas di luar ruangan, serta mengambil langkah-langkah pencegahan yang diperlukan guna menjaga keselamatan.
+ Kondisi diperkirakan dapat berlangsung hingga 27 October 2026, 14:00 WIB.</description>
+            <author>cuaca.ekstrem@bmkg.go.id (BMKG)</author>
+            <category>Met</category>
+            <guid isPermaLink="false">2.49.0.1.360.0.2026.10.27.05.15.002</guid>
+            <pubDate>Tue, 27 Oct 2026 11:29:00 +0700</pubDate>
+        </item>
+
+        <item>
+            <title>Hujan Lebat disertai Petir di Kalimantan Utara</title>
+            <link>https://cuaca.bmkg.go.id/data/public/cap/nowcast/id/CKU20261027001_alert.xml</link>
+            <description>Hujan lebat disertai petir akan terjadi pada 27 October 2026, 12:34 WITA di sebagian wilayah Kalimantan Utara, khususnya di MALINAU SELATAN HULU, PESO, TANJUNG PALAS TIMUR.
+ Kondisi ini berpotensi menimbulkan dampak berupa jarak pandang berkurang, angin kencang, dan banjir lokal.
+ Masyarakat dihimbau untuk tetap waspada, mengurangi aktivitas di luar ruangan, serta mengambil langkah-langkah pencegahan yang diperlukan guna menjaga keselamatan.
+ Kondisi diperkirakan dapat berlangsung hingga 27 October 2026, 14:00 WITA.</description>
+            <author>cuaca.ekstrem@bmkg.go.id (BMKG)</author>
+            <category>Met</category>
+            <guid isPermaLink="false">2.49.0.1.360.0.2026.10.27.05.65.001</guid>
+            <pubDate>Tue, 27 Oct 2026 12:22:00 +0800</pubDate>
+        </item>
+
+        <item>
+            <title>Hujan Lebat disertai Petir di Kalimantan Timur</title>
+            <link>https://cuaca.bmkg.go.id/data/public/cap/nowcast/id/CKT20261027001_alert.xml</link>
+            <description>Hujan lebat disertai petir akan terjadi pada 27 October 2026, 12:30 WITA di sebagian wilayah Kalimantan Timur, khususnya di GUNUNG TABUR, LOA JANAN, MARANG KAYU, SAMBOJA.
+ Kondisi ini berpotensi menimbulkan dampak berupa jarak pandang berkurang, angin kencang, dan banjir lokal.
+ Masyarakat dihimbau untuk tetap waspada, mengurangi aktivitas di luar ruangan, serta mengambil langkah-langkah pencegahan yang diperlukan guna menjaga keselamatan.
+ Kondisi diperkirakan dapat berlangsung hingga 27 October 2026, 13:40 WITA.</description>
+            <author>cuaca.ekstrem@bmkg.go.id (BMKG)</author>
+            <category>Met</category>
+            <guid isPermaLink="false">2.49.0.1.360.0.2026.10.27.05.64.001</guid>
+            <pubDate>Tue, 27 Oct 2026 12:20:00 +0800</pubDate>
+        </item>
+
+        <item>
+            <title>Hujan Lebat disertai Petir di Kep. Riau</title>
+            <link>https://cuaca.bmkg.go.id/data/public/cap/nowcast/id/CKR20261027002_alert.xml</link>
+            <description>Hujan lebat disertai petir akan terjadi pada 27 October 2026, 11:30 WIB di sebagian wilayah Kep. Riau, khususnya di BUNGURAN SELATAN, KUNDUR BARAT, KUNDUR UTARA, MIDAI, MORO, PULAU TIGA, SERASAN, SERASAN TIMUR, SINGKEP BARAT, SUAK MIDAI, SUBI, TELOK SEBONG.
+ Kondisi ini berpotensi menimbulkan dampak berupa jarak pandang berkurang, angin kencang, dan banjir lokal.
+ Masyarakat dihimbau untuk tetap waspada, mengurangi aktivitas di luar ruangan, serta mengambil langkah-langkah pencegahan yang diperlukan guna menjaga keselamatan.
+ Kondisi diperkirakan dapat berlangsung hingga 27 October 2026, 13:00 WIB.</description>
+            <author>cuaca.ekstrem@bmkg.go.id (BMKG)</author>
+            <category>Met</category>
+            <guid isPermaLink="false">2.49.0.1.360.0.2026.10.27.05.21.002</guid>
+            <pubDate>Tue, 27 Oct 2026 11:20:00 +0700</pubDate>
+        </item>
+
+        <item>
+            <title>Hujan Lebat disertai Petir di Gorontalo</title>
+            <link>https://cuaca.bmkg.go.id/data/public/cap/nowcast/id/CGT20261027001_alert.xml</link>
+            <description>Hujan lebat disertai petir akan terjadi pada 27 October 2026, 12:30 WITA di sebagian wilayah Gorontalo, khususnya di POPAYATO BARAT, TALUDITI.
+ Kondisi ini berpotensi menimbulkan dampak berupa jarak pandang berkurang, angin kencang, dan banjir lokal.
+ Masyarakat dihimbau untuk tetap waspada, mengurangi aktivitas di luar ruangan, serta mengambil langkah-langkah pencegahan yang diperlukan guna menjaga keselamatan.
+ Kondisi diperkirakan dapat berlangsung hingga 27 October 2026, 14:30 WITA.</description>
+            <author>cuaca.ekstrem@bmkg.go.id (BMKG)</author>
+            <category>Met</category>
+            <guid isPermaLink="false">2.49.0.1.360.0.2026.10.27.05.75.001</guid>
+            <pubDate>Tue, 27 Oct 2026 12:15:00 +0800</pubDate>
+        </item>
+
+        <item>
+            <title>Hujan Lebat disertai Petir di Bali</title>
+            <link>https://cuaca.bmkg.go.id/data/public/cap/nowcast/id/CBL20261027001_alert.xml</link>
+            <description>Hujan lebat disertai petir akan terjadi pada 27 October 2026, 12:20 WITA di sebagian wilayah Bali, khususnya di KERAMBITAN.
+ Kondisi ini berpotensi menimbulkan dampak berupa jarak pandang berkurang, angin kencang, dan banjir lokal.
+ Masyarakat dihimbau untuk tetap waspada, mengurangi aktivitas di luar ruangan, serta mengambil langkah-langkah pencegahan yang diperlukan guna menjaga keselamatan.
+ Kondisi diperkirakan dapat berlangsung hingga 27 October 2026, 14:20 WITA.</description>
+            <author>cuaca.ekstrem@bmkg.go.id (BMKG)</author>
+            <category>Met</category>
+            <guid isPermaLink="false">2.49.0.1.360.0.2026.10.27.05.51.001</guid>
+            <pubDate>Tue, 27 Oct 2026 12:15:00 +0800</pubDate>
+        </item>
+
+        <item>
+            <title>Hujan Lebat disertai Petir di Sulawesi Utara</title>
+            <link>https://cuaca.bmkg.go.id/data/public/cap/nowcast/id/CSR20261027001_alert.xml</link>
+            <description>Hujan lebat disertai petir akan terjadi pada 27 October 2026, 12:20 WITA di sebagian wilayah Sulawesi Utara, khususnya di TOMBATU UTARA.
+ Kondisi ini berpotensi menimbulkan dampak berupa jarak pandang berkurang, angin kencang, dan banjir lokal.
+ Masyarakat dihimbau untuk tetap waspada, mengurangi aktivitas di luar ruangan, serta mengambil langkah-langkah pencegahan yang diperlukan guna menjaga keselamatan.
+ Kondisi diperkirakan dapat berlangsung hingga 27 October 2026, 14:30 WITA.</description>
+            <author>cuaca.ekstrem@bmkg.go.id (BMKG)</author>
+            <category>Met</category>
+            <guid isPermaLink="false">2.49.0.1.360.0.2026.10.27.05.71.001</guid>
+            <pubDate>Tue, 27 Oct 2026 12:14:00 +0800</pubDate>
+        </item>
+
+        <item>
+            <title>Hujan Lebat disertai Petir di Papua Barat Daya</title>
+            <link>https://cuaca.bmkg.go.id/data/public/cap/nowcast/id/CPD20261027002_alert.xml</link>
+            <description>Hujan lebat disertai petir akan terjadi pada 27 October 2026, 13:40 WIT di sebagian wilayah Papua Barat Daya, khususnya di MAYAMUK, SALAWATI, SALAWATI BARAT, SALAWATI TENGAH, SALAWATI UTARA.
+ Kondisi ini berpotensi menimbulkan dampak berupa jarak pandang berkurang, angin kencang, dan banjir lokal.
+ Masyarakat dihimbau untuk tetap waspada, mengurangi aktivitas di luar ruangan, serta mengambil langkah-langkah pencegahan yang diperlukan guna menjaga keselamatan.
+ Kondisi diperkirakan dapat berlangsung hingga 27 October 2026, 15:40 WIT.</description>
+            <author>cuaca.ekstrem@bmkg.go.id (BMKG)</author>
+            <category>Met</category>
+            <guid isPermaLink="false">2.49.0.1.360.0.2026.10.27.05.96.002</guid>
+            <pubDate>Tue, 27 Oct 2026 13:10:00 +0900</pubDate>
+        </item>
+
+        <item>
+            <title>Hujan Lebat disertai Petir di Jakarta</title>
+            <link>https://cuaca.bmkg.go.id/data/public/cap/nowcast/id/CJK20261027001_alert.xml</link>
+            <description>Hujan lebat disertai petir akan terjadi pada 27 October 2026, 11:10 WIB di sebagian wilayah Jakarta, khususnya di CAKUNG, LARANGAN.
+ Kondisi ini berpotensi menimbulkan dampak berupa jarak pandang berkurang, angin kencang, dan banjir lokal.
+ Masyarakat dihimbau untuk tetap waspada, mengurangi aktivitas di luar ruangan, serta mengambil langkah-langkah pencegahan yang diperlukan guna menjaga keselamatan.
+ Kondisi diperkirakan dapat berlangsung hingga 27 October 2026, 14:00 WIB.</description>
+            <author>cuaca.ekstrem@bmkg.go.id (BMKG)</author>
+            <category>Met</category>
+            <guid isPermaLink="false">2.49.0.1.360.0.2026.10.27.05.31.001</guid>
+            <pubDate>Tue, 27 Oct 2026 11:00:00 +0700</pubDate>
+        </item>
+
+        <item>
+            <title>Hujan Lebat disertai Petir di DI Yogyakarta</title>
+            <link>https://cuaca.bmkg.go.id/data/public/cap/nowcast/id/CYG20261027001_alert.xml</link>
+            <description>Hujan lebat disertai petir akan terjadi pada 27 October 2026, 11:00 WIB di sebagian wilayah DI Yogyakarta, khususnya di CANGKRINGAN, PAKEM, PONJONG, SEMIN, TURI.
+ Kondisi ini berpotensi menimbulkan dampak berupa jarak pandang berkurang, angin kencang, dan banjir lokal.
+ Masyarakat dihimbau untuk tetap waspada, mengurangi aktivitas di luar ruangan, serta mengambil langkah-langkah pencegahan yang diperlukan guna menjaga keselamatan.
+ Kondisi diperkirakan dapat berlangsung hingga 27 October 2026, 13:30 WIB.</description>
+            <author>cuaca.ekstrem@bmkg.go.id (BMKG)</author>
+            <category>Met</category>
+            <guid isPermaLink="false">2.49.0.1.360.0.2026.10.27.05.34.001</guid>
+            <pubDate>Tue, 27 Oct 2026 10:50:00 +0700</pubDate>
+        </item>
+
+        <item>
+            <title>Hujan Lebat disertai Petir di Kalimantan Selatan</title>
+            <link>https://cuaca.bmkg.go.id/data/public/cap/nowcast/id/CKS20261027002_alert.xml</link>
+            <description>Hujan lebat disertai petir akan terjadi pada 27 October 2026, 12:00 WITA di sebagian wilayah Kalimantan Selatan, khususnya di BATU LICIN, KURANJI, KUSAN HILIR, KUSAN HULU.
+ Kondisi ini berpotensi menimbulkan dampak berupa jarak pandang berkurang, angin kencang, dan banjir lokal.
+ Masyarakat dihimbau untuk tetap waspada, mengurangi aktivitas di luar ruangan, serta mengambil langkah-langkah pencegahan yang diperlukan guna menjaga keselamatan.
+ Kondisi diperkirakan dapat berlangsung hingga 27 October 2026, 14:00 WITA.</description>
+            <author>cuaca.ekstrem@bmkg.go.id (BMKG)</author>
+            <category>Met</category>
+            <guid isPermaLink="false">2.49.0.1.360.0.2026.10.27.05.63.002</guid>
+            <pubDate>Tue, 27 Oct 2026 11:50:00 +0800</pubDate>
+        </item>
+
+        <item>
+            <title>Hujan Lebat disertai Petir di Sulawesi Tengah</title>
+            <link>https://cuaca.bmkg.go.id/data/public/cap/nowcast/id/CSG20261027002_alert.xml</link>
+            <description>Hujan lebat disertai petir akan terjadi pada 27 October 2026, 11:55 WITA di sebagian wilayah Sulawesi Tengah, khususnya di LABUAN, MANTIKULORE, PALU UTARA, PARIGI BARAT.
+ Kondisi ini berpotensi menimbulkan dampak berupa jarak pandang berkurang, angin kencang, dan banjir lokal.
+ Masyarakat dihimbau untuk tetap waspada, mengurangi aktivitas di luar ruangan, serta mengambil langkah-langkah pencegahan yang diperlukan guna menjaga keselamatan.
+ Kondisi diperkirakan dapat berlangsung hingga 27 October 2026, 14:00 WITA.</description>
+            <author>cuaca.ekstrem@bmkg.go.id (BMKG)</author>
+            <category>Met</category>
+            <guid isPermaLink="false">2.49.0.1.360.0.2026.10.27.05.72.002</guid>
+            <pubDate>Tue, 27 Oct 2026 11:43:00 +0800</pubDate>
+        </item>
+
+        <item>
+            <title>Hujan Lebat disertai Petir di Jawa Tengah</title>
+            <link>https://cuaca.bmkg.go.id/data/public/cap/nowcast/id/CJH20261027001_alert.xml</link>
+            <description>Hujan lebat disertai petir akan terjadi pada 27 October 2026, 10:45 WIB di sebagian wilayah Jawa Tengah, khususnya di AMPEL, BAE, DAWE, EROMOKO, GEBOG, GRABAG, JAMBU, JATINEGARA, KEDUNGBANTENG, MUSUK, NALUMSARI, PRINGSURAT, SLOGOHIMO.
+ Kondisi ini berpotensi menimbulkan dampak berupa jarak pandang berkurang, angin kencang, dan banjir lokal.
+ Masyarakat dihimbau untuk tetap waspada, mengurangi aktivitas di luar ruangan, serta mengambil langkah-langkah pencegahan yang diperlukan guna menjaga keselamatan.
+ Kondisi diperkirakan dapat berlangsung hingga 27 October 2026, 12:30 WIB.</description>
+            <author>cuaca.ekstrem@bmkg.go.id (BMKG)</author>
+            <category>Met</category>
+            <guid isPermaLink="false">2.49.0.1.360.0.2026.10.27.05.33.001</guid>
+            <pubDate>Tue, 27 Oct 2026 10:30:00 +0700</pubDate>
+        </item>
+
+        <item>
+            <title>Hujan Lebat disertai Petir di Maluku Utara</title>
+            <link>https://cuaca.bmkg.go.id/data/public/cap/nowcast/id/CMU20261027001_alert.xml</link>
+            <description>Hujan lebat disertai petir akan terjadi pada 27 October 2026, 12:32 WIT di sebagian wilayah Maluku Utara, khususnya di IBU SELATAN, KOTA MABA, MABA SELATAN, MABA UTARA, MOROTAI SELATAN BARAT, OBA UTARA.
+ Kondisi ini berpotensi menimbulkan dampak berupa jarak pandang berkurang, angin kencang, dan banjir lokal.
+ Masyarakat dihimbau untuk tetap waspada, mengurangi aktivitas di luar ruangan, serta mengambil langkah-langkah pencegahan yang diperlukan guna menjaga keselamatan.
+ Kondisi diperkirakan dapat berlangsung hingga 27 October 2026, 14:30 WIT.</description>
+            <author>cuaca.ekstrem@bmkg.go.id (BMKG)</author>
+            <category>Met</category>
+            <guid isPermaLink="false">2.49.0.1.360.0.2026.10.27.05.82.001</guid>
+            <pubDate>Tue, 27 Oct 2026 12:00:00 +0900</pubDate>
+        </item>
+
+        <item>
+            <title>Hujan Lebat disertai Petir di Aceh</title>
+            <link>https://cuaca.bmkg.go.id/data/public/cap/nowcast/id/CAH20261027001_alert.xml</link>
+            <description>Hujan lebat disertai petir akan terjadi pada 27 October 2026, 10:10 WIB di sebagian wilayah Aceh, khususnya di BANDA MULIA, BENDAHARA, KARANG BARU, MANYAK PAYED, PENANGGALAN, RANTAU, SERUWAY, SURO MAKMUR.
+ Kondisi ini berpotensi menimbulkan dampak berupa jarak pandang berkurang, angin kencang, dan banjir lokal.
+ Masyarakat dihimbau untuk tetap waspada, mengurangi aktivitas di luar ruangan, serta mengambil langkah-langkah pencegahan yang diperlukan guna menjaga keselamatan.
+ Kondisi diperkirakan dapat berlangsung hingga 27 October 2026, 13:31 WIB.</description>
+            <author>cuaca.ekstrem@bmkg.go.id (BMKG)</author>
+            <category>Met</category>
+            <guid isPermaLink="false">2.49.0.1.360.0.2026.10.27.05.11.001</guid>
+            <pubDate>Tue, 27 Oct 2026 10:00:00 +0700</pubDate>
+        </item>
+
+        <item>
+            <title>Hujan Lebat disertai Petir di Sumatera Utara</title>
+            <link>https://cuaca.bmkg.go.id/data/public/cap/nowcast/id/CSU20261027002_alert.xml</link>
+            <description>Hujan lebat disertai petir akan terjadi pada 27 October 2026, 09:15 WIB di sebagian wilayah Sumatera Utara, khususnya di BAHOROK, BANGUN PURBA, BATANG KUIS, BATANG SERANGAN, BAWOLATO, BERAMPU, BERINGIN, BINJAI, GALANG, GEBANG, GIDO, GOMO, GUNUNG SITEMBER, GUNUNGSITOLI, GUNUNGSITOLI ALO'OA, GUNUNGSITOLI BARAT, GUNUNGSITOLI IDANOI, GUNUNGSITOLI SELATAN, GUNUNGSITOLI UTARA, HAMPARAN PERAK, HILIDUHO, HILISERANGKAI, HINAI, IDANOGAWO, IDANOTAE, JUHAR, KERAJAAN, KUALA, KUTABULUH, KUTAMBARU, LAE PARIRA, LAHEWA TIMUR, LAHUSA, LAUBALENG, LOTU, LUBUK PAKAM, MANDUAMAS, MARDINGDING, MAZINO, MEDAN BELAWAN, MEDAN LABUHAN, MEDAN MARELAN, MUARA BATANG TORU, MUNTE, ONOLALU, PADANG TUALANG, PAGAR MERBAU, PAGINDAR, PAMATANG SILIMA HUTA, PANTAI CERMIN, PANTAI LABU, PAYUNG, PEGAJAHAN, PERBAUNGAN, PERGETTENG GETTENG SENGKUT, SALAK, SALAPIAN, SAWIT SEBERANG, SAWO, SECANGGANG, SEI LEPAN, SELESAI, SERBA JADI, SIDUA'ORI, SIEMPAT NEMPU, SIEMPAT NEMPU HILIR, SIEMPAT NEMPU HULU, SILIMA PUNGGA PUNGGA, SILIMAKUTA, SIRANDORUNG, SIRAPIT, SITELU TALI URANG JEHE, SITOLU ORI, SOGAE'ADU, SOMAMBAWA, STABAT, STM HILIR, TANAH PINEM, TANJUNG MORAWA, TANJUNG PURA, TARABINTANG, TELUK DALAM, TIGABINANGA, TIGALINGGA, TIGANDERKET, TOMA, TUHEMBERUA, ULU IDANOTAE, ULUGAWO, UMBUNASI, WAMPU.
+ Kondisi ini berpotensi menimbulkan dampak berupa jarak pandang berkurang, angin kencang, dan banjir lokal.
+ Masyarakat dihimbau untuk tetap waspada, mengurangi aktivitas di luar ruangan, serta mengambil langkah-langkah pencegahan yang diperlukan guna menjaga keselamatan.
+ Kondisi diperkirakan dapat berlangsung hingga 27 October 2026, 12:15 WIB.</description>
+            <author>cuaca.ekstrem@bmkg.go.id (BMKG)</author>
+            <category>Met</category>
+            <guid isPermaLink="false">2.49.0.1.360.0.2026.10.27.05.12.002</guid>
+            <pubDate>Tue, 27 Oct 2026 08:45:00 +0700</pubDate>
+        </item>
+        </channel>
+    </rss>

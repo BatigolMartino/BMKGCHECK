@@ -2,3 +2,8 @@ node_modules/
 .vercel/
 *.sql
 fixtures/wilayah-raw.sql
+
+# Environment variables (JANGAN commit file .env yang berisi key asli)
+.env
+.env.local
+.env.*.local

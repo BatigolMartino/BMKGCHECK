@@ -4,7 +4,7 @@
  * Orkestrasi: pemilih lokasi → fetch data → kalkulasi risiko → render UI.
  */
 
-import { ambilPrakiraan, ambilPeringatan, muatWilayahProvinsi } from './api.js';
+import { ambilPrakiraan, ambilPeringatan, ambilHotspot, muatWilayahProvinsi } from './api.js';
 import {
   hitungRisiko,
   hitungAngkaKunci,
@@ -194,7 +194,7 @@ async function onDesaClick(e) {
 // ─────────────────────────────────────────────────────────────────────────────
 
 async function muatData(adm4) {
-  // Ambil prakiraan dulu untuk mendapatkan nama kecamatan dan provinsi yang akurat
+  // Ambil prakiraan cuaca BMKG dulu
   let dataPrakiraan;
   try {
     dataPrakiraan = await ambilPrakiraan(adm4);
@@ -204,14 +204,22 @@ async function muatData(adm4) {
 
   const lokasi = dataPrakiraan.lokasi;
 
-  // Ambil peringatan secara paralel setelah tahu nama lokasi
-  let dataPeringatan = { peringatan: [], total: 0 };
-  try {
-    dataPeringatan = await ambilPeringatan(lokasi.provinsi, lokasi.kecamatan);
-  } catch {
-    // Peringatan gagal tidak menghentikan tampilan — tampilkan tanpa banner
-    console.warn('Peringatan dini tidak berhasil dimuat.');
-  }
+  // Ambil peringatan BMKG dan Hotspot NASA secara paralel setelah tahu koordinat desa
+  const [peringatanRes, hotspotRes] = await Promise.allSettled([
+    ambilPeringatan(lokasi.provinsi, lokasi.kecamatan),
+    ambilHotspot(lokasi.lat, lokasi.lon, 50),
+  ]);
+
+  const dataPeringatan = peringatanRes.status === 'fulfilled'
+    ? peringatanRes.value
+    : { peringatan: [], total: 0 };
+
+  const dataHotspot = hotspotRes.status === 'fulfilled'
+    ? hotspotRes.value
+    : {
+        ringkasan: { radius_5km: 0, radius_10km: 0, radius_25km: 0, radius_50km: 0 },
+        hotspots: [],
+      };
 
   const perHari   = dataPrakiraan.per_hari;
   const titikFlat = dataPrakiraan.prakiraan;
@@ -233,6 +241,7 @@ async function muatData(adm4) {
     ringkasan,
     prakiraan:      dataPrakiraan,
     peringatan:     dataPeringatan,
+    hotspot:        dataHotspot,
     lokasiTerpilih: state.lokasiAktif,
   });
 }

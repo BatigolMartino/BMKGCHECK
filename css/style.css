@@ -323,6 +323,160 @@ input[type="search"] { background-image: none; }
 }
 .tombol-bagikan:hover { background: #1EB859; }
 
+/* ── F10: Kartu Hotspot NASA ─────────────────────────────── */
+.grid-dua-kartu {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+}
+@media (min-width: 540px) {
+  .grid-dua-kartu {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.kartu-hotspot {
+  border-left: 6px solid #FF8C00;
+  background: #FFF9F2;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.hotspot-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: .5rem;
+}
+.hotspot-header h2 {
+  font-size: 1rem;
+  color: #B25900;
+  margin: 0;
+}
+.hotspot-badge-sumber {
+  font-size: .75rem;
+  background: #FFE8CC;
+  color: #B25900;
+  padding: .15rem .45rem;
+  border-radius: 999px;
+  font-weight: 600;
+}
+.hotspot-angka-utama {
+  font-size: 2.25rem;
+  font-weight: 800;
+  color: #D95300;
+  line-height: 1.1;
+  margin: .25rem 0;
+}
+.hotspot-rincian-radius {
+  display: flex;
+  gap: .5rem;
+  margin: .5rem 0;
+}
+.hotspot-ring {
+  flex: 1;
+  background: rgba(255, 255, 255, 0.8);
+  border: 1px solid #FFE0B2;
+  border-radius: var(--radius);
+  padding: .35rem;
+  text-align: center;
+}
+.hotspot-ring-angka {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--teks-utama);
+}
+.hotspot-ring-label {
+  font-size: .7rem;
+  color: var(--teks-tipis);
+}
+.hotspot-keterangan {
+  font-size: .85rem;
+  line-height: 1.45;
+  color: #554433;
+  margin-top: .4rem;
+}
+.hotspot-meta {
+  font-size: .75rem;
+  color: var(--teks-tipis);
+  margin-top: .6rem;
+  border-top: 1px dashed #FFE0B2;
+  padding-top: .4rem;
+}
+
+/* ── F12: Pesan Perhatian Gabungan (BMKG + NASA) ─────────── */
+.perhatian-gabungan {
+  background: #FFF0F2;
+  border: 2px solid #DC3545;
+  border-radius: var(--radius-lg);
+  padding: 1rem;
+  display: none;
+}
+.perhatian-gabungan.aktif {
+  display: block;
+}
+.perhatian-judul {
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+  font-size: 1rem;
+  font-weight: 800;
+  color: #A71D2A;
+  margin-bottom: .35rem;
+}
+.perhatian-teks {
+  font-size: .9rem;
+  line-height: 1.5;
+  color: #721C24;
+}
+
+/* ── F11: Peta Leaflet ───────────────────────────────────── */
+.kartu-peta {
+  padding: 1rem;
+}
+.kartu-peta-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: .6rem;
+}
+.kartu-peta-header h2 {
+  font-size: 1rem;
+  color: var(--hijau);
+}
+#peta-hotspot {
+  width: 100%;
+  height: 280px;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  background: #e5e3df;
+  z-index: 10;
+}
+.peta-legenda {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .6rem;
+  margin-top: .6rem;
+  font-size: .8rem;
+  color: var(--teks-utama);
+}
+.legenda-item {
+  display: flex;
+  align-items: center;
+  gap: .35rem;
+}
+.legenda-dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  display: inline-block;
+  border: 1px solid rgba(0,0,0,.3);
+}
+.legenda-dot.merah  { background: #E60000; }
+.legenda-dot.oranye { background: #FF8C00; }
+.legenda-dot.kuning { background: #FFD700; }
+.legenda-dot.desa   { background: #1F4D3A; border-radius: 2px; }
+
 /* ── Footer ───────────────────────────────────────────────── */
 .site-footer {
   background: var(--hijau);

@@ -85,12 +85,36 @@
               <td>Setiap beberapa menit</td>
             </tr>
             <tr>
+              <td>Hotspot titik panas satelit</td>
+              <td><a href="https://firms.modaps.eosdis.nasa.gov" target="_blank" rel="noopener noreferrer">NASA FIRMS API</a></td>
+              <td>Hampir real-time (VIIRS 375m, tertunda 2-3 jam)</td>
+            </tr>
+            <tr>
               <td>Kode wilayah desa</td>
               <td><a href="https://github.com/cahyadsn/wilayah" target="_blank" rel="noopener noreferrer">cahyadsn/wilayah</a> (MIT)</td>
               <td>Statis (Kepmendagri 2022)</td>
             </tr>
           </tbody>
         </table>
+        <p style="font-size:.85rem;margin-top:.75rem;color:var(--teks-tipis)">
+          Kami menggunakan data dari <strong>NASA FIRMS</strong> (Fire Information for Resource Management System), bagian dari NASA Earth Science Data and Information System (ESDIS).
+        </p>
+      </section>
+
+      <!-- Modul Hotspot Satelit -->
+      <section class="kartu" aria-labelledby="judul-hotspot">
+        <h2 id="judul-hotspot">🛰️ Pemahaman Hotspot Satelit (NASA FIRMS)</h2>
+        <p>
+          Hotspot (titik panas) dideteksi oleh sensor inframerah termal <strong>VIIRS (resolusi 375 meter)</strong> pada satelit kutub NASA/NOAA (Suomi-NPP, NOAA-20, NOAA-21).
+        </p>
+        <p style="margin-top:.5rem"><strong>Penting untuk dipahami:</strong></p>
+        <ul>
+          <li><strong>Hotspot ≠ Pasti Kebakaran:</strong> Satelit mendeteksi anomali suhu permukaan tanah. Hotspot dapat berupa kebakaran lahan, namun bisa juga berupa atap seng pabrik, cerobong industri, atau tanah terbuka yang menyerap panas matahari terik.</li>
+          <li><strong>Kebakaran Gambut Bawah Permukaan:</strong> Karhutla gambut sering kali membara di lapisan dalam tanah (*smoldering combustion*) tanpa api terbuka di atas tanah. Kondisi ini sering kali <em>tidak memancarkan panas termal yang cukup ke udara</em>, sehingga <strong>dapat tidak terdeteksi oleh satelit</strong>.</li>
+          <li><strong>Tutupan Awan &amp; Asap:</strong> Awan hujan yang tebal atau asap pekat dari kebakaran dapat menghalangi pandangan sensor inframerah satelit.</li>
+          <li><strong>Frekuensi Lintasan:</strong> Satelit orbit kutub hanya melintas di atas wilayah yang sama 2 hingga 4 kali dalam sehari, sehingga deteksi bersifat <em>hampir real-time</em> (tertunda beberapa jam setelah satelit melintas).</li>
+          <li><strong>Perbedaan Angka Antar Lembaga:</strong> Jumlah hotspot antara NASA FIRMS, KLHK (SiPongi), dan lembaga lain dapat berbeda karena perbedaan sensor yang digunakan (VIIRS 375m lebih sensitif dibanding MODIS 1km) serta perbedaan ambang batas kepercayaan (*confidence threshold*).</li>
+        </ul>
       </section>
 
       <!-- Metode Indikator -->
@@ -175,6 +199,9 @@
   <footer class="site-footer" role="contentinfo">
     <div class="inner">
       <p class="atribusi">Sumber data: BMKG (Badan Meteorologi, Klimatologi, dan Geofisika)</p>
+      <p style="margin-top:.35rem">
+        Kami menggunakan data dari <strong>NASA FIRMS</strong> (Fire Information for Resource Management System), bagian dari NASA Earth Science Data and Information System (ESDIS).
+      </p>
       <p class="disclaimer">
         Situs ini bukan layanan resmi BMKG. Indikator risiko karhutla adalah hasil olahan sederhana
         tim PeatGuard dan bukan produk resmi BMKG.
@@ -182,6 +209,7 @@
       <nav class="tautan-footer" aria-label="Tautan sumber resmi">
         <a href="https://www.bmkg.go.id" target="_blank" rel="noopener noreferrer">BMKG.go.id</a>
         <a href="https://cuaca.bmkg.go.id" target="_blank" rel="noopener noreferrer">Cuaca BMKG</a>
+        <a href="https://firms.modaps.eosdis.nasa.gov" target="_blank" rel="noopener noreferrer">NASA FIRMS</a>
         <a href="index.html">Beranda</a>
       </nav>
     </div>

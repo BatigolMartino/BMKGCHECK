@@ -38,6 +38,27 @@ export async function ambilPeringatan(prov, kecamatan = '') {
 }
 
 /**
+ * Ambil data hotspot satelit NASA FIRMS di sekitar koordinat desa.
+ * @param {number} lat
+ * @param {number} lon
+ * @param {number} radius — dalam kilometer (maks 50)
+ * @returns {Promise<object>} payload dari /api/hotspots
+ */
+export async function ambilHotspot(lat, lon, radius = 50) {
+  const params = new URLSearchParams({
+    lat: lat.toString(),
+    lon: lon.toString(),
+    radius: radius.toString(),
+  });
+  const res = await fetch(`/api/hotspots?${params}`);
+  if (!res.ok) {
+    const err = await res.json().catch(() => ({ error: `HTTP ${res.status}` }));
+    throw new Error(err.error ?? `Gagal mengambil data hotspot (${res.status})`);
+  }
+  return res.json();
+}
+
+/**
  * Muat data wilayah satu provinsi secara lazy (hanya saat dibutuhkan).
  * File JSON disimpan di /data/wilayah/{kode}.json
  * @param {string} kode — kode BPS provinsi, mis. "61"

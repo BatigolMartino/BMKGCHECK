@@ -14,8 +14,13 @@
   <title>PeatGuard Cuaca — Risiko Karhutla Kalimantan</title>
   <link rel="stylesheet" href="css/style.css">
 
+  <!-- Leaflet 1.9.4 CSS untuk Peta Hotspot (versi dipin) -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+
   <!-- Chart.js dari CDN (ringan, tidak perlu npm) -->
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.2/dist/chart.umd.min.js" defer></script>
+  <!-- Leaflet 1.9.4 JS (versi dipin, defer agar tidak memblokir render) -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin="" defer></script>
 </head>
 <body>
 
@@ -112,13 +117,17 @@
         Data prakiraan dan peringatan dini bersumber dari
         <a href="https://api.bmkg.go.id" target="_blank" rel="noopener noreferrer">API terbuka BMKG</a>.
       </p>
+      <p style="margin-top:.4rem">
+        Kami menggunakan data dari <strong>NASA FIRMS</strong> (Fire Information for Resource Management System), bagian dari NASA Earth Science Data and Information System (ESDIS).
+      </p>
       <p class="disclaimer">
         Situs ini bukan layanan resmi BMKG. Indikator risiko karhutla adalah hasil olahan sederhana
-        tim PeatGuard dan bukan produk resmi BMKG. Selalu ikuti arahan otoritas setempat.
+        tim PeatGuard dan bukan produk resmi BMKG. Selalu ikuti arahan otoritas dan BPBD setempat.
       </p>
       <nav class="tautan-footer" aria-label="Tautan sumber resmi">
         <a href="https://www.bmkg.go.id" target="_blank" rel="noopener noreferrer">BMKG.go.id</a>
         <a href="https://cuaca.bmkg.go.id" target="_blank" rel="noopener noreferrer">Cuaca BMKG</a>
+        <a href="https://firms.modaps.eosdis.nasa.gov" target="_blank" rel="noopener noreferrer">NASA FIRMS</a>
         <a href="tentang.html">Tentang PeatGuard</a>
       </nav>
     </div>

@@ -6,6 +6,6 @@
   "type": "module",
   "scripts": {
     "start": "node server.js",
-    "test": "node --experimental-vm-modules tests/risk.test.js"
+    "test": "node --experimental-vm-modules tests/risk.test.js && node --experimental-vm-modules tests/hotspots.test.js"
   }
 }

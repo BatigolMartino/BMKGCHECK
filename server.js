@@ -12,9 +12,22 @@ import { fileURLToPath } from 'url';
 // Import handler serverless kita
 import forecastHandler from './api/forecast.js';
 import alertsHandler from './api/alerts.js';
+import hotspotsHandler from './api/hotspots.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const PORT = 3000;
+
+// Muat .env secara otomatis untuk lokal
+if (fs.existsSync(path.join(__dirname, '.env'))) {
+  const envContent = fs.readFileSync(path.join(__dirname, '.env'), 'utf8');
+  for (const line of envContent.split('\n')) {
+    const trimmed = line.trim();
+    if (trimmed && !trimmed.startsWith('#')) {
+      const [k, ...v] = trimmed.split('=');
+      process.env[k.trim()] = v.join('=').trim().replace(/^["']|["']$/g, '');
+    }
+  }
+}
 
 const MIME_TYPES = {
   '.html': 'text/html; charset=utf-8',
@@ -90,6 +103,22 @@ const server = http.createServer(async (req, res) => {
     const vercelRes = createVercelResponse(res);
     try {
       await alertsHandler(vercelReq, vercelRes);
+    } catch (err) {
+      res.statusCode = 500;
+      res.end(JSON.stringify({ error: err.message }));
+    }
+    return;
+  }
+
+  if (pathname === '/api/hotspots' || pathname === '/api/hotspots.js') {
+    const vercelReq = {
+      method: req.method,
+      query: Object.fromEntries(parsedUrl.searchParams.entries()),
+      headers: req.headers,
+    };
+    const vercelRes = createVercelResponse(res);
+    try {
+      await hotspotsHandler(vercelReq, vercelRes);
     } catch (err) {
       res.statusCode = 500;
       res.end(JSON.stringify({ error: err.message }));
